@@ -11,8 +11,12 @@
             "id": "d801fc75bb883320",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Code Tab 不止于混合代码块.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -100,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Code Tab 不止于混合代码块.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Code Tab 不止于混合代码块.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Code Tab 不止于混合代码块.md"
+              }
             }
           },
           {
@@ -135,6 +143,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
+                "file": "Code Tab 不止于混合代码块.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -163,7 +172,7 @@
   },
   "active": "d801fc75bb883320",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Code Tab 不止于混合代码块.md",
     "Images/Pasted image 20240621191031.png",
     "Pasted image 20240621190629.png",
     "Images/Pasted image 20240621191006.png",

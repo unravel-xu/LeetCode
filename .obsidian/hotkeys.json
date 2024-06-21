@@ -1,0 +1,13 @@
+{
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ]
+}

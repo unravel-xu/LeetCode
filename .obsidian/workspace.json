@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "67573ecacdd7094a",
+    "type": "split",
+    "children": [
+      {
+        "id": "da178e01d56bf707",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67813d1c4b37ad85",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f26677fd5af503f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6100c899a4d45cdc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d20cb8e805e8f86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42729d11c3482436",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23e98c6575a95b64",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9064d235313d72f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#LLM",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9b9c07fda9729422",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f09b85b298fcbe9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b4a8e5bc34f530e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "15145a0ea1d14b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "efc038a32be0457c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e5ae4789bc65b7af",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b52c58e069152c42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md"
+              }
+            }
+          },
+          {
+            "id": "8368a6f871281eff",
+            "type": "leaf",
+            "state": {
+              "type": "zotero-annotation-view",
+              "state": {
+                "file": "Welcome.md",
+                "itemId": 30,
+                "attachmentId": 31,
+                "follow": null
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false,
+      "custom-sort:Toggle custom sorting": false
+    }
+  },
+  "active": "67813d1c4b37ad85",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Images/Pasted image 20240621191031.png",
+    "Pasted image 20240621190629.png",
+    "Images/Pasted image 20240621191006.png",
+    "Images",
+    "Pasted image 20240621190607.png",
+    "Pasted image 20240621190609.png",
+    "Pasted image 20240621190608.png",
+    "Pasted image 20240621190531.png",
+    "LeetCode",
+    "深度学习入门（鱼书）笔记.md",
+    "Pasted image 20240617113121.png",
+    "Pasted image 20240617112740.png",
+    "Pasted image 20240617112512.png",
+    "未命名.md",
+    "Deep Learning",
+    "ReinforcementLearning/Combinations/GITM-LLM和RL的一次交融.md",
+    "LiteratureNotes/{SQIRL}_ {Grey-Box} Detection of {SQL} Injection Vulnerabilities Using Reinforcement Learning.md",
+    "ReinforcementLearning/notes/1. 强化学习基础.md",
+    "ReinforcementLearning/Combinations",
+    "LiteratureNotes/导航页.md",
+    "ReinforcementLearning/notes/学习路线.md",
+    "@wahaibi2023sqirl.md",
+    "一些资料/合集.md",
+    "ReinforcementLearning/notes",
+    "ReinforcementLearning",
+    "LiteratureNotes/Link_ Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning.md",
+    "LiteratureNotes/LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward.md",
+    "LiteratureNotes/LiteratureNotes.md",
+    "pytorch/基础语法学习/Transforms使用.md",
+    "pytorch/基础语法学习/Tensorboard使用.md",
+    "pytorch/基础语法学习/加载数据.md",
+    "Spaces",
+    "code/杂项.md",
+    "code",
+    "ZtImgExcerpt",
+    "ZtTemplates/zt-field.eta.md",
+    "LiteratureNotes/A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcem.md",
+    "ZtTemplates/zt-note.eta.md",
+    "LiteratureNotes/Sania_ Syntactic and semantic analysis for automated testing against sql injection.md",
+    "ZtTemplates/zt-colored.eta.md",
+    "ZtTemplates/zt-cite2.eta.md",
+    "ZtTemplates/zt-cite.eta.md",
+    "ZtTemplates/zt-annots.eta.md",
+    "ZtTemplates"
+  ]
+}

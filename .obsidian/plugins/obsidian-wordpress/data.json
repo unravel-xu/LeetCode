@@ -1,0 +1,15 @@
+{
+  "lang": "auto",
+  "profiles": [],
+  "showRibbonIcon": false,
+  "defaultPostStatus": "draft",
+  "defaultCommentStatus": "open",
+  "rememberLastSelectedCategories": true,
+  "showWordPressEditConfirm": false,
+  "mathJaxOutputType": "svg",
+  "commentConvertMode": "ignore",
+  "enableHtml": false,
+  "replaceMediaLinks": true,
+  "version": "2",
+  "defaultPostType": "post"
+}

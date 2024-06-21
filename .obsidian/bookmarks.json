@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1713353058376,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1713353058376,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1713353058376,
+              "path": "LiteratureNotes/导航页.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "\\\\LiteratureNotes"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

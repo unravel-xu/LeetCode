@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "vimMode": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./Images",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
+}

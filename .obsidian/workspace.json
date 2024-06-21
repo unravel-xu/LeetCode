@@ -4,27 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "da178e01d56bf707",
+        "id": "a8c8556d5abe7d2e",
         "type": "tabs",
         "children": [
           {
-            "id": "67813d1c4b37ad85",
+            "id": "d801fc75bb883320",
             "type": "leaf",
             "state": {
-              "type": "pkmer-downloader",
+              "type": "empty",
               "state": {}
-            }
-          },
-          {
-            "id": "3f26677fd5af503f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -96,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -113,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +116,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,7 +135,6 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "Welcome.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -179,7 +161,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "67813d1c4b37ad85",
+  "active": "d801fc75bb883320",
   "lastOpenFiles": [
     "Welcome.md",
     "Images/Pasted image 20240621191031.png",

@@ -12,5 +12,6 @@
   "custom-sort",
   "obsidian-git",
   "obsidian-code-tab",
-  "table-editor-obsidian"
+  "editing-toolbar",
+  "ob-table-enhancer"
 ]

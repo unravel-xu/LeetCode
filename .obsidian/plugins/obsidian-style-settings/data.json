@@ -16,5 +16,7 @@
   "blue-topaz-theme@@blockquote-style-change-options": "blockquote-style-speech-bubble-two",
   "blue-topaz-theme@@colorful-link-animation": false,
   "blue-topaz-theme@@link-click": true,
-  "blue-topaz-theme@@highlight-style": "all-rounded-corners-highlight"
+  "blue-topaz-theme@@highlight-style": "all-rounded-corners-highlight",
+  "blue-topaz-theme@@full-width-table": true,
+  "blue-topaz-theme@@full-width-dvtable": true
 }

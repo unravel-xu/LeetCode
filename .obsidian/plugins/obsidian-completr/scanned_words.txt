@@ -1303,6 +1303,7 @@ cwE
 cRr
 cia
 cp
+char
 Normalize
 New
 NY
@@ -2597,6 +2598,7 @@ ba
 bRP
 bCj
 bU
+bool
 wu
 work
 we
@@ -3394,6 +3396,7 @@ fA
 fnv
 fXNg
 fEj
+float
 You
 YX
 YO
@@ -4222,6 +4225,7 @@ duu
 dWp
 dIwgb
 dZa
+double
 yx
 yW
 yKR

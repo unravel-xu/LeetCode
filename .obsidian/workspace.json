@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a10bf5ebc4fb0691",
+        "id": "eddd5831f8a029b1",
         "type": "tabs",
         "children": [
           {
-            "id": "3897ce7a89432373",
+            "id": "009d1965383b2ac9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -179,10 +178,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "3897ce7a89432373",
+  "active": "009d1965383b2ac9",
   "lastOpenFiles": [
-    "C++基础/快速入门.md",
     "C++基础/相关资源.md",
+    "C++基础/快速入门.md",
     "未命名.md",
     "C++基础/Images/Pasted image 20240622093530.png",
     "C++基础/Images",

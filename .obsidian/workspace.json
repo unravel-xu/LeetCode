@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++基础/基础笔记.md",
+                "file": "C++基础/现代C++编程：从入门到实践.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,12 +84,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++基础/基础笔记.md",
+                "file": "C++基础/现代C++编程：从入门到实践.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++基础/基础笔记.md",
+                "file": "C++基础/现代C++编程：从入门到实践.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++基础/基础笔记.md"
+                "file": "C++基础/现代C++编程：从入门到实践.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "C++基础/基础笔记.md",
+                "file": "C++基础/现代C++编程：从入门到实践.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -171,10 +171,13 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "2733c509fac7ffeb",
   "lastOpenFiles": [
+    "未命名.md",
+    "C++基础/现代C++编程：从入门到实践.md",
+    "C++基础/Images/Pasted image 20240622093530.png",
+    "C++基础/Images",
     "C++基础/相关资源.md",
-    "C++基础/基础笔记.md",
     "C++基础/Acwing笔记",
     "Code Tab 不止于混合代码块.md",
     "C++基础",
@@ -190,8 +193,6 @@
     "深度学习入门（鱼书）笔记.md",
     "Pasted image 20240617113121.png",
     "Pasted image 20240617112740.png",
-    "Pasted image 20240617112512.png",
-    "未命名.md",
     "Deep Learning",
     "ReinforcementLearning/Combinations/GITM-LLM和RL的一次交融.md",
     "LiteratureNotes/{SQIRL}_ {Grey-Box} Detection of {SQL} Injection Vulnerabilities Using Reinforcement Learning.md",
@@ -211,13 +212,11 @@
     "pytorch/基础语法学习/加载数据.md",
     "Spaces",
     "code/杂项.md",
-    "code",
     "ZtTemplates/zt-field.eta.md",
     "LiteratureNotes/A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcem.md",
     "ZtTemplates/zt-note.eta.md",
     "LiteratureNotes/Sania_ Syntactic and semantic analysis for automated testing against sql injection.md",
     "ZtTemplates/zt-colored.eta.md",
-    "ZtTemplates/zt-cite2.eta.md",
-    "ZtTemplates/zt-cite.eta.md"
+    "ZtTemplates/zt-cite2.eta.md"
   ]
 }

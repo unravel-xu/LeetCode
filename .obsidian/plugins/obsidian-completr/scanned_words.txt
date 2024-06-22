@@ -960,6 +960,7 @@ iLJ
 iZU
 imKmC
 iU
+int
 given
 github
 gt
@@ -1184,6 +1185,7 @@ sac
 sY
 sFv
 sFaI
+short
 call
 creatStatement
 citekey
@@ -2770,6 +2772,7 @@ ly
 lpu
 ls
 lsP
+long
 Knowledge
 Ky
 Ku

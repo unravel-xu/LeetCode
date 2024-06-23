@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,7 +179,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "42729d11c3482436",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",

@@ -84,13 +84,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -180,7 +178,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "009d1965383b2ac9",
+  "active": "42729d11c3482436",
   "lastOpenFiles": [
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",

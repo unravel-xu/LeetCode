@@ -91,6 +91,7 @@ TAC
 TH
 TbHm
 TT
+Template
 Convert
 Concerns
 CNNs
@@ -176,6 +177,7 @@ Czn
 Cdxd
 CU
 Cx
+Container
 PIL
 Parameters
 Pruning
@@ -372,6 +374,7 @@ IhbC
 IRX
 IYu
 Images
+Iterator
 or
 org
 original
@@ -465,6 +468,8 @@ ouc
 oX
 os
 oli
+opetator
+operator
 numpy
 ndarrayto
 ndarray
@@ -650,6 +655,7 @@ tjv
 tTT
 tsB
 tMc
+template
 an
 attachments
 arxiv
@@ -1187,6 +1193,7 @@ sFv
 sFaI
 short
 string
+stack
 call
 creatStatement
 citekey
@@ -1305,6 +1312,8 @@ cRr
 cia
 cp
 char
+class
+copy
 Normalize
 New
 NY
@@ -1722,6 +1731,7 @@ rxp
 rwU
 rU
 rR
+reverse
 penalty
 publicly
 post
@@ -1823,6 +1833,9 @@ pMU
 pON
 png
 printf
+public
+private
+protected
 executQuery
 effort
 el
@@ -2018,6 +2031,9 @@ AhDvM
 AeA
 Age
 ASCII
+Algorithm
+Adaptor
+Allocator
 zotero
 zt
 zu
@@ -2431,6 +2447,8 @@ SQl
 SqV
 SaI
 SFW
+STL
+Standard
 World
 Why
 We
@@ -2947,6 +2965,7 @@ FZC
 Ft
 FsR
 FRS
+Functor
 Unstructured
 Um
 UH
@@ -4049,6 +4068,7 @@ vqIi
 vxx
 vlt
 veu
+vector
 xH
 xh
 xa
@@ -4561,6 +4581,7 @@ Vc
 VC
 VGc
 VMR
+Vector
 qM
 qK
 qI
@@ -4642,6 +4663,7 @@ qkA
 qj
 qwq
 qXLeC
+queue
 Öv
 ÖL
 ßk

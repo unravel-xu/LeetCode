@@ -375,6 +375,7 @@ IRX
 IYu
 Images
 Iterator
+InputIterator
 or
 org
 original
@@ -871,6 +872,7 @@ RbZ
 Rd
 Rlz
 RSG
+RandomAccessIterator
 input
 image
 in
@@ -1837,6 +1839,7 @@ printf
 public
 private
 protected
+priority
 executQuery
 effort
 el
@@ -2968,6 +2971,7 @@ Ft
 FsR
 FRS
 Functor
+ForwardIterator
 Unstructured
 Um
 UH
@@ -3240,6 +3244,8 @@ mMfg
 mii
 mpW
 mHs
+multiset
+multimap
 use
 um
 uz
@@ -4251,6 +4257,7 @@ dWp
 dIwgb
 dZa
 double
+deque
 yx
 yW
 yKR
@@ -4426,6 +4433,7 @@ ODi
 OwIA
 OeU
 Oms
+OutputIterator
 GVl
 Gc
 Gs

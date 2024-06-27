@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eddd5831f8a029b1",
+        "id": "90016ecc42c08594",
         "type": "tabs",
         "children": [
           {
-            "id": "009d1965383b2ac9",
+            "id": "185ef015f6e9bc0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,13 +180,15 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "009d1965383b2ac9",
+  "active": "185ef015f6e9bc0a",
   "lastOpenFiles": [
+    "C++基础/Images/Pasted image 20240627114003.png",
+    "C++基础/相关资源.md",
+    "C++基础/快速入门.md",
+    "C++基础/Images/Pasted image 20240627113552.png",
     "C++基础/Images/Pasted image 20240627110453.png",
     "C++基础/Images/Pasted image 20240627110445.png",
     "C++基础/Images/Pasted image 20240627110439.png",
-    "C++基础/快速入门.md",
-    "C++基础/相关资源.md",
     "未命名.md",
     "C++基础/Images/Pasted image 20240622093530.png",
     "C++基础/Images",
@@ -199,8 +201,6 @@
     "Images",
     "Pasted image 20240621190607.png",
     "Pasted image 20240621190609.png",
-    "Pasted image 20240621190608.png",
-    "Pasted image 20240621190531.png",
     "LeetCode",
     "深度学习入门（鱼书）笔记.md",
     "Deep Learning",

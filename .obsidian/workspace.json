@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/AcWing笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/AcWing笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/AcWing笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++基础/快速入门.md"
+                "file": "算法基础/AcWing笔记.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/AcWing笔记.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -182,9 +181,11 @@
   },
   "active": "185ef015f6e9bc0a",
   "lastOpenFiles": [
+    "C++基础/快速入门.md",
+    "算法基础/AcWing笔记.md",
+    "算法基础",
     "C++基础/Images/Pasted image 20240627114003.png",
     "C++基础/相关资源.md",
-    "C++基础/快速入门.md",
     "C++基础/Images/Pasted image 20240627113552.png",
     "C++基础/Images/Pasted image 20240627110453.png",
     "C++基础/Images/Pasted image 20240627110445.png",
@@ -200,7 +201,6 @@
     "Images/Pasted image 20240621191006.png",
     "Images",
     "Pasted image 20240621190607.png",
-    "Pasted image 20240621190609.png",
     "LeetCode",
     "深度学习入门（鱼书）笔记.md",
     "Deep Learning",
@@ -220,7 +220,6 @@
     "pytorch/基础语法学习/Transforms使用.md",
     "pytorch/基础语法学习/Tensorboard使用.md",
     "pytorch/基础语法学习/加载数据.md",
-    "Spaces",
     "code/杂项.md",
     "ZtTemplates/zt-field.eta.md",
     "LiteratureNotes/A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcem.md",

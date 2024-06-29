@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "90016ecc42c08594",
+        "id": "fa74cef202762658",
         "type": "tabs",
         "children": [
           {
-            "id": "185ef015f6e9bc0a",
+            "id": "1f79baede3276d3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法基础/AcWing笔记.md",
+                "file": "C++基础/快速入门.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,12 +84,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法基础/AcWing笔记.md",
+                "file": "C++基础/快速入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法基础/AcWing笔记.md",
+                "file": "C++基础/快速入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法基础/AcWing笔记.md"
+                "file": "C++基础/快速入门.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "算法基础/AcWing笔记.md",
+                "file": "C++基础/快速入门.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -179,10 +179,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "185ef015f6e9bc0a",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
-    "C++基础/快速入门.md",
     "算法基础/AcWing笔记.md",
+    "C++基础/快速入门.md",
     "算法基础",
     "C++基础/Images/Pasted image 20240627114003.png",
     "C++基础/相关资源.md",

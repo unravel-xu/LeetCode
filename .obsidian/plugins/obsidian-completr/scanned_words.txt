@@ -786,6 +786,7 @@ aCx
 aAU
 ax
 av
+adapter
 Resize
 Results
 Real
@@ -970,6 +971,7 @@ iZU
 imKmC
 iU
 int
+iterator
 given
 github
 gt
@@ -1317,6 +1319,7 @@ cp
 char
 class
 copy
+container
 Normalize
 New
 NY
@@ -2279,6 +2282,7 @@ QE
 Qr
 QkEq
 QMY
+Queue
 Era
 Exploring
 Efficient
@@ -2454,6 +2458,7 @@ SFW
 STL
 Standard
 String
+Stack
 World
 Why
 We
@@ -2625,6 +2630,7 @@ bRP
 bCj
 bU
 bool
+begin
 wu
 work
 we
@@ -3832,6 +3838,7 @@ XfF
 XUM
 Xn
 XnS
+XML
 jj
 jC
 jSp
@@ -3993,6 +4000,7 @@ JHT
 Js
 Jy
 Jm
+JSON
 vd
 vK
 vE

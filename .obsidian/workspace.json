@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -179,11 +180,11 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "98d9b23613aa3e10",
   "lastOpenFiles": [
-    "C++基础/相关资源.md",
-    "C++基础/快速入门.md",
     "算法基础/912 DSA复习笔记.md",
+    "C++基础/快速入门.md",
+    "C++基础/相关资源.md",
     "算法基础/AcWing笔记.md",
     "算法基础",
     "C++基础/Images/Pasted image 20240627114003.png",

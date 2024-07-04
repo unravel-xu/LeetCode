@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -179,7 +180,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "54ecd9b6775f7d68",
   "lastOpenFiles": [
     "算法基础/912 DSA复习笔记.md",
     "C++基础/快速入门.md",

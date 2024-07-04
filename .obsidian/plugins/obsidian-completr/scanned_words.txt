@@ -1651,6 +1651,7 @@ MTyC
 MnYN
 MMRS
 Mg
+MyClass
 repetition
 retain
 rF
@@ -1740,6 +1741,7 @@ rwU
 rU
 rR
 reverse
+rhs
 penalty
 publicly
 post
@@ -2043,6 +2045,7 @@ ASCII
 Algorithm
 Adaptor
 Allocator
+Arr
 zotero
 zt
 zu
@@ -2811,6 +2814,7 @@ lpu
 ls
 lsP
 long
+lhs
 Knowledge
 Ky
 Ku

@@ -977,6 +977,7 @@ imKmC
 iU
 int
 iterator
+iostream
 given
 github
 gt
@@ -2825,6 +2826,7 @@ lsP
 long
 lhs
 length
+longestCommonSubsequence
 Knowledge
 Ky
 Ku
@@ -3268,6 +3270,7 @@ mpW
 mHs
 multiset
 multimap
+max
 use
 um
 uz

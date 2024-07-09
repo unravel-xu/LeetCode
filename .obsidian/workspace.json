@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,12 +84,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++基础/快速入门.md"
+                "file": "算法基础/912 DSA复习笔记.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "C++基础/快速入门.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -179,10 +179,10 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "0890b2f9aa8181aa",
   "lastOpenFiles": [
-    "算法基础/912 DSA复习笔记.md",
     "C++基础/快速入门.md",
+    "算法基础/912 DSA复习笔记.md",
     "C++基础/相关资源.md",
     "算法基础/AcWing笔记.md",
     "算法基础",

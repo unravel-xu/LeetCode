@@ -789,6 +789,9 @@ aAU
 ax
 av
 adapter
+ace
+abcde
+aec
 Resize
 Results
 Real
@@ -1201,6 +1204,7 @@ sFaI
 short
 string
 stack
+sum
 call
 creatStatement
 citekey
@@ -1849,6 +1853,7 @@ public
 private
 protected
 priority
+prev
 executQuery
 effort
 el
@@ -2466,6 +2471,7 @@ STL
 Standard
 String
 Stack
+Solution
 World
 Why
 We
@@ -2818,6 +2824,7 @@ ls
 lsP
 long
 lhs
+length
 Knowledge
 Ky
 Ku
@@ -3442,6 +3449,7 @@ fnv
 fXNg
 fEj
 float
+fib
 You
 YX
 YO

@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a9e4f14df1668e4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.6.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,7 +191,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "043fb7eff0e188b7",
+  "active": "6a9e4f14df1668e4",
   "lastOpenFiles": [
     "C++基础/快速入门.md",
     "算法基础/912 DSA复习笔记.md",

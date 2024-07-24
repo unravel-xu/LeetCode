@@ -660,6 +660,7 @@ tsB
 tMc
 template
 true
+temp
 an
 attachments
 arxiv
@@ -1327,6 +1328,7 @@ char
 class
 copy
 container
+cout
 Normalize
 New
 NY
@@ -1749,6 +1751,9 @@ rR
 reverse
 rhs
 return
+record
+right
+reversePairs
 penalty
 publicly
 post
@@ -1958,6 +1963,7 @@ eDu
 efn
 efS
 eyg
+endl
 Answer
 Automatic
 Af
@@ -2827,6 +2833,7 @@ long
 lhs
 length
 longestCommonSubsequence
+left
 Knowledge
 Ky
 Ku
@@ -3271,6 +3278,9 @@ mHs
 multiset
 multimap
 max
+mergeSort
+mid
+merge
 use
 um
 uz

@@ -84,8 +84,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,7 +178,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "42729d11c3482436",
   "lastOpenFiles": [
     "C++基础/快速入门.md",
     "算法基础/AcWing笔记.md",

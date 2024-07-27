@@ -84,11 +84,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -178,7 +180,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "42729d11c3482436",
+  "active": "b4223d8ccc1e1a73",
   "lastOpenFiles": [
     "C++基础/快速入门.md",
     "算法基础/AcWing笔记.md",

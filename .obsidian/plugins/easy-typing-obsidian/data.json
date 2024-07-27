@@ -46,6 +46,10 @@
     [
       ":)|",
       "😀|"
+    ],
+    [
+      "\\leetcode|",
+      "````tab\ntab: 题目\n#|\ntab: 示例\n\ntab: 思路\n\ntab: 代码\n```c++\n\n```\n````"
     ]
   ],
   "userSelRuleSettingsOpen": true,

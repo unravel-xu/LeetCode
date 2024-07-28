@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -181,6 +182,9 @@
   },
   "active": "23e98c6575a95b64",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240728160405.png",
+    "算法基础/Images/Pasted image 20240728160258.png",
+    "算法基础/Images/Pasted image 20240728160221.png",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240727192003.png",
     "算法基础/Images/Pasted image 20240727191926.png",
@@ -200,8 +204,6 @@
     "C++基础/Acwing笔记",
     "Code Tab 不止于混合代码块.md",
     "C++基础",
-    "Images/Pasted image 20240621191031.png",
-    "Pasted image 20240621190629.png",
     "Images",
     "LeetCode",
     "深度学习入门（鱼书）笔记.md",

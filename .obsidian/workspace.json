@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -182,6 +181,8 @@
   },
   "active": "525d0d7379bac0b9",
   "lastOpenFiles": [
+    "算法基础/Images/Insertion-sort-example-300px.gif",
+    "算法基础/Images/Pasted image 20240730142010.png",
     "算法基础/Images/Pasted image 20240728160405.png",
     "算法基础/Images/Pasted image 20240728160258.png",
     "算法基础/Images/Pasted image 20240728160221.png",
@@ -197,9 +198,7 @@
     "C++基础/Images/Pasted image 20240627113552.png",
     "C++基础/Images/Pasted image 20240627110453.png",
     "C++基础/Images/Pasted image 20240627110445.png",
-    "C++基础/Images/Pasted image 20240627110439.png",
     "未命名.md",
-    "C++基础/Images/Pasted image 20240622093530.png",
     "C++基础/Images",
     "C++基础/Acwing笔记",
     "Code Tab 不止于混合代码块.md",

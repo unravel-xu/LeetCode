@@ -378,6 +378,7 @@ IYu
 Images
 Iterator
 InputIterator
+Insertion
 or
 org
 original
@@ -982,6 +983,7 @@ iU
 int
 iterator
 iostream
+insertionSortList
 given
 github
 gt
@@ -1071,6 +1073,7 @@ gRU
 gY
 goF
 gcr
+gif
 size
 select
 should
@@ -3379,6 +3382,7 @@ uy
 ucz
 uqT
 unordered
+unsort
 for
 fh
 fo

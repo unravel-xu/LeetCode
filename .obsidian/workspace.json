@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -179,7 +178,7 @@
       "custom-sort:Toggle custom sorting": false
     }
   },
-  "active": "525d0d7379bac0b9",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
     "算法基础/Images/Insertion-sort-example-300px.gif",
     "算法基础/Images/Pasted image 20240730142010.png",

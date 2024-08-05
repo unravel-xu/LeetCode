@@ -559,6 +559,7 @@ next
 nullptr
 num
 node
+namespace
 tensor
 to
 the
@@ -668,6 +669,7 @@ template
 true
 temp
 top
+token
 an
 attachments
 arxiv
@@ -887,6 +889,7 @@ Rd
 Rlz
 RSG
 RandomAccessIterator
+RPN
 input
 image
 in
@@ -987,6 +990,7 @@ int
 iterator
 iostream
 insertionSortList
+isdigit
 given
 github
 gt
@@ -1223,6 +1227,8 @@ sortList
 sorted
 stk
 slow
+std
+stoi
 call
 creatStatement
 citekey
@@ -1346,6 +1352,7 @@ copy
 container
 cout
 cur
+cin
 Normalize
 New
 NY
@@ -1775,6 +1782,7 @@ record
 right
 reversePairs
 rightSorted
+rpn
 penalty
 publicly
 post
@@ -1885,6 +1893,7 @@ pushed
 popped
 push
 pop
+pri
 executQuery
 effort
 el
@@ -1990,6 +1999,8 @@ efS
 eyg
 endl
 empty
+eval
+evalRPN
 Answer
 Automatic
 Af
@@ -2677,6 +2688,7 @@ bCj
 bU
 bool
 begin
+bds
 wu
 work
 we
@@ -3313,6 +3325,7 @@ mid
 merge
 min
 mergeTwoLists
+main
 use
 um
 uz
@@ -4152,6 +4165,7 @@ veu
 vector
 val
 validateStackSequences
+void
 xH
 xh
 xa

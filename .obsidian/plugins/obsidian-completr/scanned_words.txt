@@ -992,6 +992,7 @@ iterator
 iostream
 insertionSortList
 isdigit
+inorderTraversal
 given
 github
 gt
@@ -1899,6 +1900,7 @@ push
 pop
 pri
 preorderTraversal
+postorderTraversal
 executQuery
 effort
 el

@@ -561,6 +561,8 @@ nullptr
 num
 node
 namespace
+numCourses
+neighbor
 tensor
 to
 the
@@ -671,6 +673,7 @@ true
 temp
 top
 token
+table
 an
 attachments
 arxiv
@@ -803,6 +806,8 @@ adapter
 ace
 abcde
 aec
+adj
+auto
 Resize
 Results
 Real
@@ -997,6 +1002,7 @@ inorder
 inStart
 inEnd
 index
+inDeg
 given
 github
 gt
@@ -1362,6 +1368,7 @@ cur
 cin
 calculateDepth
 currentLevelSize
+canFinish
 Normalize
 New
 NY
@@ -1518,6 +1525,7 @@ DAwD
 DH
 Destructor
 Definition
+DFS
 LLM
 Low
 Less
@@ -1795,6 +1803,7 @@ rpn
 root
 res
 recur
+resize
 penalty
 publicly
 post
@@ -1911,6 +1920,8 @@ postorderTraversal
 preorder
 preStart
 preEnd
+prerequisites
+prerequisit
 executQuery
 effort
 el
@@ -2019,6 +2030,9 @@ empty
 eval
 evalRPN
 expressionTree
+edges
+edge
+emplace
 Answer
 Automatic
 Af
@@ -3231,6 +3245,7 @@ hash
 head
 hmap
 heap
+hasCircle
 multi
 minutes
 make
@@ -3703,6 +3718,7 @@ BNB
 BPk
 BHi
 Bxlh
+BFS
 Hessian
 Hk
 Hg
@@ -4192,6 +4208,9 @@ val
 validateStackSequences
 void
 value
+validPath
+visited
+vertex
 xH
 xh
 xa
@@ -4378,6 +4397,7 @@ dummy
 dfs
 divide
 deduceTree
+destination
 yx
 yW
 yKR

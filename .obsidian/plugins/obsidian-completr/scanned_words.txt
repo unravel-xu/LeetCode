@@ -93,6 +93,7 @@ TbHm
 TT
 Template
 TreeNode
+Tarjan
 Convert
 Concerns
 CNNs
@@ -1922,6 +1923,7 @@ preStart
 preEnd
 prerequisites
 prerequisit
+parent
 executQuery
 effort
 el
@@ -2909,6 +2911,7 @@ left
 linked
 leftSorted
 levelOrder
+low
 Knowledge
 Ky
 Ku
@@ -3246,6 +3249,7 @@ head
 hmap
 heap
 hasCircle
+hca
 multi
 minutes
 make
@@ -4398,6 +4402,8 @@ dfs
 divide
 deduceTree
 destination
+dfn
+dtime
 yx
 yW
 yKR

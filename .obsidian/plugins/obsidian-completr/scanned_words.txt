@@ -1527,6 +1527,7 @@ DH
 Destructor
 Definition
 DFS
+Dijkstra
 LLM
 Low
 Less
@@ -2302,6 +2303,7 @@ kby
 kBH
 kYr
 kp
+kruskal
 QBGW
 Quantization
 QV

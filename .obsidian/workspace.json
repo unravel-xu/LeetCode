@@ -15,7 +15,7 @@
               "state": {
                 "file": "算法基础/912 DSA复习笔记.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -181,17 +180,17 @@
   },
   "active": "525d0d7379bac0b9",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240814170515.png",
+    "算法基础/Images/Pasted image 20240814170440.png",
+    "算法基础/Images/Pasted image 20240814170156.png",
+    "算法基础/Images/Pasted image 20240814170036.png",
+    "算法基础/Images/Pasted image 20240814165843.png",
+    "算法基础/Images/Pasted image 20240814165728.png",
+    "算法基础/Images/Pasted image 20240814165707.png",
+    "算法基础/Images/Pasted image 20240814165646.png",
     "算法基础/Images/Pasted image 20240814163844.png",
     "算法基础/Images/Pasted image 20240814163835.png",
     "算法基础/Images/Pasted image 20240814144253.png",
-    "算法基础/Images/Pasted image 20240814144036.png",
-    "算法基础/Images/Pasted image 20240814105440.png",
-    "算法基础/Images/Pasted image 20240814104700.png",
-    "算法基础/Images/Pasted image 20240814103631.png",
-    "算法基础/Images/Pasted image 20240812205522.png",
-    "算法基础/Images/Pasted image 20240812200109.png",
-    "算法基础/Images/Pasted image 20240812200103.png",
-    "算法基础/Images/Pasted image 20240812200057.png",
     "算法基础/AcWing笔记.md",
     "leetcode/一些小技巧.md",
     "算法基础/912 DSA复习笔记.md",

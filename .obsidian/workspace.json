@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4835f96e8dc74b14",
+        "id": "a50d36c86dce43a9",
         "type": "tabs",
         "children": [
           {
-            "id": "baaded0556412ca2",
+            "id": "84ab6683ab55853d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,10 +180,15 @@
       "media-extended:Open media": false
     }
   },
-  "active": "baaded0556412ca2",
+  "active": "84ab6683ab55853d",
   "lastOpenFiles": [
-    "算法基础/912 DSA复习笔记.md",
+    "算法基础/Images/Pasted image 20240815154826.png",
     "算法基础/AcWing笔记.md",
+    "算法基础/Images/Pasted image 20240728160221.png",
+    "算法基础/Images/Insertion-sort-example-300px.gif",
+    "算法基础/Images/cut1.svg",
+    "Media Note - 最小生成树(Kruskal(克鲁斯卡尔)和Prim(普里姆))算法动画演示.md",
+    "算法基础/912 DSA复习笔记.md",
     "C++基础/快速入门.md",
     "Media Note - Dijkstra.md",
     "算法基础/Images/Pasted image 20240815092729.png",
@@ -193,9 +198,6 @@
     "算法基础/Images/Pasted image 20240814170440.png",
     "算法基础/Images/Pasted image 20240814170156.png",
     "算法基础/Images/Pasted image 20240814170036.png",
-    "算法基础/Images/Pasted image 20240814165843.png",
-    "算法基础/Images/Pasted image 20240814165728.png",
-    "算法基础/Images/Pasted image 20240814165707.png",
     "leetcode/一些小技巧.md",
     "leetcode",
     "算法基础/Images",
@@ -225,8 +227,6 @@
     "pytorch/基础语法学习/Tensorboard使用.md",
     "pytorch/基础语法学习/加载数据.md",
     "code/杂项.md",
-    "ZtTemplates/zt-field.eta.md",
-    "LiteratureNotes/A Review of Techniques and Policies on Cybersecurity Using Artificial Intelligence and Reinforcem.md",
-    "ZtTemplates/zt-note.eta.md"
+    "ZtTemplates/zt-field.eta.md"
   ]
 }

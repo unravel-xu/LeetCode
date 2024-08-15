@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "27cc5f9565512102",
+        "id": "5f3c5c4d921b1836",
         "type": "tabs",
         "children": [
           {
-            "id": "8c0344f82bdb0367",
+            "id": "03158627c5874759",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,17 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "927e05b841a2bd1f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "算法基础/912 DSA复习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "算法基础/912 DSA复习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "算法基础/912 DSA复习笔记.md"
+              }
             }
           },
           {
@@ -148,6 +143,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
+                "file": "算法基础/912 DSA复习笔记.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -182,9 +178,12 @@
       "media-extended:Open media": false
     }
   },
-  "active": "927e05b841a2bd1f",
+  "active": "03158627c5874759",
   "lastOpenFiles": [
     "算法基础/912 DSA复习笔记.md",
+    "算法基础/AcWing笔记.md",
+    "C++基础/快速入门.md",
+    "Media Note - Dijkstra.md",
     "算法基础/Images/Pasted image 20240815092729.png",
     "算法基础/Images/Pasted image 20240815092237.png",
     "算法基础/Images/Pasted image 20240815091956.png",
@@ -195,11 +194,9 @@
     "算法基础/Images/Pasted image 20240814165843.png",
     "算法基础/Images/Pasted image 20240814165728.png",
     "算法基础/Images/Pasted image 20240814165707.png",
-    "算法基础/AcWing笔记.md",
     "leetcode/一些小技巧.md",
     "leetcode",
     "算法基础/Images",
-    "C++基础/快速入门.md",
     "C++基础/相关资源.md",
     "算法基础",
     "未命名.md",

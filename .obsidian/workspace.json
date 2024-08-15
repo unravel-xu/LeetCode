@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -180,6 +181,9 @@
   },
   "active": "525d0d7379bac0b9",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240815092729.png",
+    "算法基础/Images/Pasted image 20240815092237.png",
+    "算法基础/Images/Pasted image 20240815091956.png",
     "算法基础/Images/Pasted image 20240814170515.png",
     "算法基础/Images/Pasted image 20240814170440.png",
     "算法基础/Images/Pasted image 20240814170156.png",
@@ -188,9 +192,6 @@
     "算法基础/Images/Pasted image 20240814165728.png",
     "算法基础/Images/Pasted image 20240814165707.png",
     "算法基础/Images/Pasted image 20240814165646.png",
-    "算法基础/Images/Pasted image 20240814163844.png",
-    "算法基础/Images/Pasted image 20240814163835.png",
-    "算法基础/Images/Pasted image 20240814144253.png",
     "算法基础/AcWing笔记.md",
     "leetcode/一些小技巧.md",
     "算法基础/912 DSA复习笔记.md",

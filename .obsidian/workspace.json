@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -182,6 +181,7 @@
   },
   "active": "84ab6683ab55853d",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240816110135.png",
     "算法基础/Images/Pasted image 20240815185959.png",
     "算法基础/Images/Pasted image 20240815185416.png",
     "算法基础/Images/Pasted image 20240815154826.png",
@@ -197,7 +197,6 @@
     "算法基础/Images/Pasted image 20240815092237.png",
     "算法基础/Images/Pasted image 20240815091956.png",
     "算法基础/Images/Pasted image 20240814170515.png",
-    "算法基础/Images/Pasted image 20240814170440.png",
     "leetcode/一些小技巧.md",
     "leetcode",
     "算法基础/Images",

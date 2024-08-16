@@ -287,6 +287,8 @@ PrTF
 Ph
 PhP
 PN
+PII
+PFS
 Image
 Instruction
 In
@@ -402,6 +404,7 @@ Id
 Idv
 IDo
 Igrrr
+INF
 or
 org
 original
@@ -470,7 +473,6 @@ oM
 ouY
 oP
 open
-outperforms
 other
 one
 object
@@ -710,6 +712,7 @@ transform
 tK
 tM
 teR
+typedef
 an
 attachments
 arxiv
@@ -849,6 +852,7 @@ atkJ
 aGd
 aNP
 aCA
+ans
 Resize
 Results
 Real
@@ -1310,6 +1314,7 @@ sss
 sourceVertex
 sizeof
 selectMinDis
+second
 call
 creatStatement
 citekey
@@ -1448,6 +1453,7 @@ cHD
 cccIII
 cycle
 continue
+cnt
 Normalize
 New
 NY
@@ -1805,6 +1811,8 @@ MyClass
 MMM
 MmY
 MiV
+MAXN
+MST
 repetition
 retain
 rF
@@ -2032,6 +2040,9 @@ puz
 ppp
 pPu
 pvL
+pair
+pque
+prim
 executQuery
 effort
 el
@@ -3927,6 +3938,7 @@ BzDh
 BBB
 BcL
 BFl
+BST
 Hessian
 Hk
 Hg
@@ -4659,6 +4671,7 @@ de
 docc
 dis
 dijkstra
+dist
 yx
 yW
 yKR

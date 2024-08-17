@@ -1059,6 +1059,7 @@ iT
 iZ
 izD
 inG
+isBalanced
 given
 github
 gt
@@ -1315,6 +1316,8 @@ sourceVertex
 sizeof
 selectMinDis
 second
+successor
+successorParent
 call
 creatStatement
 citekey
@@ -1454,6 +1457,7 @@ cccIII
 cycle
 continue
 cnt
+curParent
 Normalize
 New
 NY
@@ -1535,6 +1539,7 @@ NeV
 NhXh
 Njf
 NJ
+NULL
 DS
 Distillation
 DN
@@ -1916,6 +1921,7 @@ resize
 rgb
 rrryyy
 rW
+rightHeight
 penalty
 publicly
 post
@@ -2260,6 +2266,7 @@ AqAo
 AeN
 Atm
 AVR
+AVL
 zotero
 zt
 zu
@@ -3079,6 +3086,7 @@ linejoin
 lrr
 lTj
 lK
+leftHeight
 Knowledge
 Ky
 Ku
@@ -3254,6 +3262,7 @@ Fi
 FsbHDf
 FGz
 FPUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+Fib
 Unstructured
 Um
 UH
@@ -4672,6 +4681,7 @@ docc
 dis
 dijkstra
 dist
+deleteNode
 yx
 yW
 yKR

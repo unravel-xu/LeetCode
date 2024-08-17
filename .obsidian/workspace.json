@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -180,7 +179,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "84ab6683ab55853d",
   "lastOpenFiles": [
     "算法基础/Images/Tree_rotation_animation_250x250.gif",
     "算法基础/Images/Pasted image 20240817093811.png",

@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -179,8 +180,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "cab60a5db8b10e5d",
   "lastOpenFiles": [
+    "算法基础/Images/binary_heap_insert.svg",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240817112957.png",
     "算法基础/Images/Pasted image 20240817112309.png",

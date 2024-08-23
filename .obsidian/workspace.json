@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法基础/补充算法.md"
+                "file": "算法基础/912 DSA复习笔记.md"
               }
             }
           },
@@ -145,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -182,6 +181,8 @@
   },
   "active": "cab60a5db8b10e5d",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240823212050.png",
+    "算法基础/补充算法.md",
     "算法基础/Images/Pasted image 20240823194003.png",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/heapSort.gif",
@@ -193,8 +194,6 @@
     "算法基础/Images/Pasted image 20240817112309.png",
     "算法基础/Images/Pasted image 20240817112142.png",
     "算法基础/Images/Pasted image 20240817112136.png",
-    "算法基础/Images/Pasted image 20240817112123.png",
-    "算法基础/补充算法.md",
     "Media Note - 最小生成树(Kruskal(克鲁斯卡尔)和Prim(普里姆))算法动画演示.md",
     "C++基础/快速入门.md",
     "Media Note - Dijkstra.md",

@@ -6120,6 +6120,8 @@ hnnn
 hkC
 hlMl
 hll
+heapify
+heapSort
 multi
 minutes
 make
@@ -6670,6 +6672,7 @@ fHS
 fXa
 fry
 fPy
+floydHeapify
 You
 YX
 YO
@@ -7013,6 +7016,7 @@ BHHL
 BQQ
 Btq
 BdE
+BinHeap
 Hessian
 Hk
 Hg

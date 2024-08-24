@@ -179,8 +179,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "cab60a5db8b10e5d",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240824161008.png",
+    "算法基础/Images/disjoint-set-find.svg",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",
     "leetcode/一些小技巧.md",
@@ -194,7 +196,6 @@
     "算法基础/Images/Pasted image 20240823221224.png",
     "算法基础/Images/Pasted image 20240823221011.png",
     "算法基础/Images/Pasted image 20240823220628.png",
-    "算法基础/Images/Pasted image 20240823215853.png",
     "Media Note - 最小生成树(Kruskal(克鲁斯卡尔)和Prim(普里姆))算法动画演示.md",
     "Media Note - Dijkstra.md",
     "leetcode",

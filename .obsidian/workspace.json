@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -182,6 +181,7 @@
   },
   "active": "3eb1b8040d77a58b",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240827212327.png",
     "算法基础/Images/Pasted image 20240827202758.png",
     "算法基础/Images/Pasted image 20240827202157.png",
     "算法基础/Images/Pasted image 20240827201632.png",
@@ -193,7 +193,6 @@
     "算法基础/Images/Pasted image 20240827174420.png",
     "算法基础/Images/Pasted image 20240827170431.png",
     "算法基础/Images/Pasted image 20240826214618.png",
-    "算法基础/Images/Pasted image 20240826214402.png",
     "算法基础/补充算法.md",
     "leetcode/一些小技巧.md",
     "C++基础/快速入门.md",

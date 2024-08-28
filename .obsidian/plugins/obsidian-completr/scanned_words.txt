@@ -1794,6 +1794,8 @@ RMh
 RbFW
 Rxh
 Rwt
+Rabin
+Rolling
 input
 image
 in
@@ -2623,6 +2625,8 @@ cML
 cFW
 cVWW
 czz
+cate
+cat
 Normalize
 New
 NY
@@ -5933,6 +5937,7 @@ KTpo
 KDv
 KrO
 KEP
+Karp
 Factorization
 FY
 Fn
@@ -7640,6 +7645,7 @@ HnS
 Hsd
 HMMM
 HCY
+Hash
 ZWq
 ZVeG
 Zm

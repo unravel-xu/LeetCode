@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -179,7 +180,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "bb83c671477f563d",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
     "算法基础/Images/Pasted image 20240828171017.png",
     "算法基础/Images/Pasted image 20240828170816.png",

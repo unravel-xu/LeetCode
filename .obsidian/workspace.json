@@ -84,12 +84,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -179,7 +179,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "bb83c671477f563d",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
     "算法基础/Images/Pasted image 20240831183659.png",
     "算法基础/Images/Pasted image 20240831183352.png",

@@ -589,6 +589,7 @@ Pal
 PyB
 Pbg
 Psu
+Partition
 Image
 Instruction
 In
@@ -3784,6 +3785,7 @@ pIB
 pap
 pivot
 pbZV
+partition
 executQuery
 effort
 el
@@ -5058,6 +5060,7 @@ Sks
 SLQ
 SLm
 SoY
+Select
 World
 Why
 We
@@ -7110,6 +7113,7 @@ fGUS
 fGUC
 fZu
 fFV
+fca
 You
 YX
 YO
@@ -7485,6 +7489,7 @@ BWzV
 BWC
 BBn
 Boyer
+BFPRT
 Hessian
 Hk
 Hg

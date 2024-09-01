@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -181,7 +182,10 @@
   },
   "active": "bb83c671477f563d",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240901103626.png",
+    "算法基础/Images/Pasted image 20240901103254.png",
     "算法基础/Images/Pasted image 20240901101648.png",
+    "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240831214959.png",
     "算法基础/Images/Pasted image 20240831183659.png",
     "算法基础/Images/Pasted image 20240831183352.png",
@@ -190,9 +194,6 @@
     "算法基础/Images/Pasted image 20240831182831.png",
     "算法基础/Images/Pasted image 20240831182718.png",
     "算法基础/Images/Pasted image 20240831182610.png",
-    "算法基础/Images/Pasted image 20240831182451.png",
-    "算法基础/Images/Pasted image 20240831182251.png",
-    "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",
     "leetcode/一些小技巧.md",
     "C++基础/快速入门.md",

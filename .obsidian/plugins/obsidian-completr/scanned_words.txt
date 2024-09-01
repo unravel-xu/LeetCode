@@ -3174,6 +3174,7 @@ LBK
 LVLV
 LfU
 LUG
+LGU
 Model
 Max
 Mask
@@ -3364,6 +3365,7 @@ MxU
 MVV
 MWc
 MOWa
+Moore
 repetition
 retain
 rF
@@ -7461,6 +7463,7 @@ BeY
 BWzV
 BWC
 BBn
+Boyer
 Hessian
 Hk
 Hg

@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -180,24 +179,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "601ad39d885ed836",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
+    "算法基础/补充算法.md",
+    "算法基础/912 DSA复习笔记.md",
+    "算法基础/Images/Pasted image 20240913223000.jpg",
+    "算法基础/Images/Pasted image 20240913222906.jpg",
+    "算法基础/Images/Pasted image 20240913222807.jpg",
+    "算法基础/Images/Pasted image 20240913222701.jpg",
+    "算法基础/Images/Pasted image 20240913222450.jpg",
+    "算法基础/Images/Pasted image 20240913221920.jpg",
     "算法基础/Images/Pasted image 20240913220141.jpg",
     "算法基础/Images/Pasted image 20240913220012.jpg",
     "算法基础/Images/Pasted image 20240913205834.jpg",
     "算法基础/Images/Pasted image 20240913205725.png",
-    "算法基础/Images/Pasted image 20240913205406.png",
-    "算法基础/912 DSA复习笔记.md",
-    "算法基础/Images/Pasted image 20240913183748.png",
-    "算法基础/Images/Pasted image 20240913175205.png",
-    "算法基础/Images/Pasted image 20240913173758.png",
-    "算法基础/Images/Pasted image 20240904205533.png",
-    "算法基础/Images/Pasted image 20240904205525.png",
-    "算法基础/Images/Pasted image 20240904205356.png",
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",
     "leetcode/一些小技巧.md",
-    "算法基础/补充算法.md",
     "Media Note - 最小生成树(Kruskal(克鲁斯卡尔)和Prim(普里姆))算法动画演示.md",
     "Media Note - Dijkstra.md",
     "leetcode",

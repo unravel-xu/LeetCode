@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法基础/补充算法.md"
+                "file": "算法基础/912 DSA复习笔记.md"
               }
             }
           },
@@ -143,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "算法基础/补充算法.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -178,10 +179,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "42729d11c3482436",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
-    "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",
+    "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240913223000.jpg",
     "算法基础/Images/Pasted image 20240913222906.jpg",
     "算法基础/Images/Pasted image 20240913222807.jpg",

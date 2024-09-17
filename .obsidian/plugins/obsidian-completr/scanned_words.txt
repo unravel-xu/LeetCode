@@ -5995,6 +5995,7 @@ KDv
 KrO
 KEP
 Karp
+Kruskal
 Factorization
 FY
 Fn

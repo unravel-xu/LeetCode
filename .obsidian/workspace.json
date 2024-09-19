@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45c38cf217f3e264",
+        "id": "40d06c7e53a00686",
         "type": "tabs",
         "children": [
           {
-            "id": "7be4b689f31110fe",
+            "id": "a4e5bb3604208d96",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,11 +180,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "7be4b689f31110fe",
+  "active": "a4e5bb3604208d96",
   "lastOpenFiles": [
+    "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240919190243.png",
     "算法基础/Images/Pasted image 20240919172551.png",
-    "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240919162403.png",
     "算法基础/Images/Pasted image 20240919162336.png",
     "算法基础/Images/Pasted image 20240919162257.png",
@@ -193,7 +193,6 @@
     "算法基础/Images/Pasted image 20240919161506.jpg",
     "算法基础/Images/Pasted image 20240919155925.jpg",
     "算法基础/Images/Pasted image 20240919151832.png",
-    "算法基础/Images/Pasted image 20240919151721.png",
     "算法基础/补充算法.md",
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",

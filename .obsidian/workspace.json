@@ -84,7 +84,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,6 +182,7 @@
   },
   "active": "601ad39d885ed836",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240919113153.png",
     "算法基础/Images/Pasted image 20240918213520.png",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240918214340.png",

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "139de3086c692dfe",
+        "id": "45c38cf217f3e264",
         "type": "tabs",
         "children": [
           {
-            "id": "601ad39d885ed836",
+            "id": "7be4b689f31110fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -180,20 +179,19 @@
       "media-extended:Open media": false
     }
   },
-  "active": "601ad39d885ed836",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
+    "算法基础/912 DSA复习笔记.md",
+    "算法基础/Images/Pasted image 20240919162403.png",
+    "算法基础/Images/Pasted image 20240919162336.png",
+    "算法基础/Images/Pasted image 20240919162257.png",
+    "算法基础/Images/Pasted image 20240919161650.png",
+    "算法基础/Images/Pasted image 20240919161633.png",
+    "算法基础/Images/Pasted image 20240919161506.jpg",
     "算法基础/Images/Pasted image 20240919155925.jpg",
     "算法基础/Images/Pasted image 20240919151832.png",
     "算法基础/Images/Pasted image 20240919151721.png",
-    "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240919151230.png",
-    "算法基础/Images/Pasted image 20240919150816.png",
-    "算法基础/Images/Pasted image 20240919145652.png",
-    "算法基础/Images/Pasted image 20240919145311.png",
-    "算法基础/Images/Pasted image 20240919114620.png",
-    "算法基础/Images/Pasted image 20240919114143.png",
-    "算法基础/Images/Pasted image 20240919113929.png",
-    "算法基础/Images/Pasted image 20240919113153.png",
     "算法基础/补充算法.md",
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",

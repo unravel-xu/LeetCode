@@ -84,12 +84,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 388.5,
     "collapsed": true
   },
   "right": {
@@ -182,18 +181,18 @@
   },
   "active": "a4e5bb3604208d96",
   "lastOpenFiles": [
+    "算法基础/Images/Pasted image 20240828162601.png",
+    "算法基础/912 DSA复习笔记.md",
+    "算法基础/Images/Pasted image 20240920154146.png",
     "算法基础/Images/Pasted image 20240919223617.png",
     "算法基础/Images/Pasted image 20240919223536.png",
     "算法基础/Images/Pasted image 20240919223052.png",
     "算法基础/Images/Pasted image 20240919222655.png",
     "算法基础/Images/Pasted image 20240919222135.png",
     "算法基础/Images/Pasted image 20240919214321.png",
-    "算法基础/912 DSA复习笔记.md",
     "算法基础/Images/Pasted image 20240919214115.png",
     "算法基础/Images/Pasted image 20240919213847.png",
     "算法基础/Images/Pasted image 20240919213744.png",
-    "算法基础/Images/Pasted image 20240919190243.png",
-    "算法基础/Images/Pasted image 20240919172551.png",
     "算法基础/补充算法.md",
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "算法基础/912 DSA复习笔记.md",
+                "file": "复习大纲/DSA.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "算法基础/912 DSA复习笔记.md",
+                "file": "复习大纲/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "算法基础/912 DSA复习笔记.md",
+                "file": "复习大纲/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "算法基础/912 DSA复习笔记.md"
+                "file": "复习大纲/DSA.md"
               }
             }
           },
@@ -144,7 +144,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "算法基础/912 DSA复习笔记.md",
+                "file": "复习大纲/DSA.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -181,8 +181,10 @@
   },
   "active": "23e98c6575a95b64",
   "lastOpenFiles": [
-    "算法基础/Images/Pasted image 20240920190100.png",
     "算法基础/912 DSA复习笔记.md",
+    "复习大纲/DSA.md",
+    "复习大纲",
+    "算法基础/Images/Pasted image 20240920190100.png",
     "算法基础/Images/Pasted image 20240828162601.png",
     "算法基础/Images/Pasted image 20240920154146.png",
     "算法基础/Images/Pasted image 20240919223617.png",
@@ -192,7 +194,6 @@
     "算法基础/Images/Pasted image 20240919222135.png",
     "算法基础/Images/Pasted image 20240919214321.png",
     "算法基础/Images/Pasted image 20240919214115.png",
-    "算法基础/Images/Pasted image 20240919213847.png",
     "算法基础/补充算法.md",
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",
@@ -214,7 +215,6 @@
     "ReinforcementLearning/Combinations/GITM-LLM和RL的一次交融.md",
     "LiteratureNotes/{SQIRL}_ {Grey-Box} Detection of {SQL} Injection Vulnerabilities Using Reinforcement Learning.md",
     "ReinforcementLearning/notes/1. 强化学习基础.md",
-    "ReinforcementLearning/Combinations",
     "LiteratureNotes/导航页.md",
     "ReinforcementLearning/notes/学习路线.md",
     "@wahaibi2023sqirl.md",

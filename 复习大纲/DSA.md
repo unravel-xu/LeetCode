@@ -51,6 +51,7 @@
 * 基于列表派生
 ## 4-J 双栈当队
 ![|475](Images/1857360-20220714210806132-1672496540.gif)
+栈 B 为空时，需先将栈 A 元素转入 B 中，再对栈 B 做 pop
 ![|475](Images/1857360-20220714210806248-927348673.gif)
 ## 4-K Steap + Queap
 Steap = Stack + Heap = push + pop + getmax
@@ -63,4 +64,8 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 ![](Images/Pasted%20image%2020241031112344.png)
 * getmax()：return P.front();  // O(1)
 * dequeue()：P.dequeue();  return Q.dequeue();  // O(1)
-* enqueue()：
+* enqueue()：![|400](Images/Pasted%20image%2020241031113153.png)
+  最坏情况需要 O(n)
+## 4-L 直方图内最大矩形
+[[912 DSA复习笔记##04-L 直方图内最大矩形]]
+# 5 二叉树

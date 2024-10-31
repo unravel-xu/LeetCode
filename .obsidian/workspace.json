@@ -11,12 +11,14 @@
             "id": "4e6b8f60d09fd558",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "复习大纲/Images/Pasted image 20241031095603.png"
+                "file": "复习大纲/DSA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241031095603"
+              "icon": "lucide-file",
+              "title": "DSA"
             }
           }
         ]
@@ -98,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -114,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "复习大纲/Images/Pasted image 20241031095603.png",
+                "file": "复习大纲/DSA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Pasted image 20241031095603 的反向链接列表"
+              "title": "DSA 的反向链接列表"
             }
           },
           {
@@ -133,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "复习大纲/Images/Pasted image 20241031095603.png",
+                "file": "复习大纲/DSA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Pasted image 20241031095603 的出链列表"
+              "title": "DSA 的出链列表"
             }
           },
           {
@@ -147,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "复习大纲/Images/Pasted image 20241031095603.png"
+                "file": "复习大纲/DSA.md"
               },
               "icon": "lucide-list",
-              "title": "Pasted image 20241031095603 的大纲"
+              "title": "DSA 的大纲"
             }
           },
           {
@@ -159,7 +162,7 @@
             "state": {
               "type": "zotero-annotation-view",
               "state": {
-                "file": "复习大纲/Images/Pasted image 20241031095603.png",
+                "file": "复习大纲/DSA.md",
                 "itemId": 30,
                 "attachmentId": 31,
                 "follow": null
@@ -200,8 +203,9 @@
   },
   "active": "4e6b8f60d09fd558",
   "lastOpenFiles": [
-    "复习大纲/DSA.md",
+    "复习大纲/Images/Pasted image 20241031095747.png",
     "复习大纲/Images/Pasted image 20241031095603.png",
+    "复习大纲/DSA.md",
     "复习大纲/Images/Pasted image 20241031095536.png",
     "复习大纲/Images",
     "算法基础/912 DSA复习笔记.md",

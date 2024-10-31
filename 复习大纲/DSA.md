@@ -54,3 +54,13 @@
 ![|475](Images/1857360-20220714210806248-927348673.gif)
 ## 4-K Steap + Queap
 Steap = Stack + Heap = push + pop + getmax
+![](Images/Pasted%20image%2020241031110246.png)
+* getmax()：return P.top(); // O(1)
+* pop()：P.pop(); return S.pop();  //O(1)
+* push(): P.push(max(elem, P.top())); S.push(elem);
+
+Queap = Queue + Heap = enqueue + dequeue + getMax
+![](Images/Pasted%20image%2020241031112344.png)
+* getmax()：return P.front();  // O(1)
+* dequeue()：P.dequeue();  return Q.dequeue();  // O(1)
+* enqueue()：

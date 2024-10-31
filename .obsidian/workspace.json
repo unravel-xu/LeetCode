@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -201,8 +202,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "4e6b8f60d09fd558",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241031112344.png",
+    "复习大纲/Images/Pasted image 20241031110246.png",
     "复习大纲/Images/1857360-20220714210806132-1672496540.gif",
     "复习大纲/Images/Pasted image 20241031095747.png",
     "复习大纲/Images/Pasted image 20241031103743.jpg",
@@ -216,8 +219,6 @@
     "算法基础/912 DSA复习笔记.md",
     "复习大纲",
     "算法基础/Images/Pasted image 20240920190100.png",
-    "算法基础/Images/Pasted image 20240828162601.png",
-    "算法基础/Images/Pasted image 20240920154146.png",
     "算法基础/补充算法.md",
     "C++基础/相关资源.md",
     "C++基础/快速入门.md",

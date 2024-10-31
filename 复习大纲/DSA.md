@@ -125,5 +125,35 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 - 获取顶点度数：O(1)
 - 添加、删除边后更新度数：O(1)
 - 空间：$\Theta(n^2)$
+* 平面图：$e \leq 3n-6$
 - 压缩存储技术
 ## 6-C 邻接表
+将邻接矩阵的各行组织为列表，只记录存在的边
+- 适用于稀疏图
+- 空间复杂度：
+	有向图：O(n+e)
+	无向图：O(n+2e)
+	平面图：O(n + 3n) = O(n)
+* 时间复杂度：
+	建立邻接表：O(n+e)
+	遍历所有邻接表：O(n+e)，建立逆邻接表可改进为 O(1+deg(v))
+	计算 v 的度数：增加度数记录域：O(n)附加空间
+		增加/删除边时更新度数：O(1)
+		每次查询：O(1)
+	判边：
+		有向图：搜索 u 的邻接表 O(deg(u))
+		无向图：搜索 u 或 v 的邻接表 O(max(deg(u), deg(v)))
+		通过散列：O(1)，增加 O(n+e)的空间
+## 6-D BFS
+- 时间复杂度：O(n+e)
+- 有向图/无向图都会出现 TREE 和 CROSS
+UNDISCOVERED：未入队
+DISCOVERED：在队列中
+VISITED：已出队列
+- TREE：v(DISCOVERED)->u(UNDISCOVERED)
+- CROSS：v(DISCOVERED)->u(DISCOVERED/VISITED)
+对图做 BFS 会生成一个 BFS 森林，包含 c 棵树，n-c 条 TREE，e-n+c 条 CROSS
+- 最短路径：无向图中，顶点 v 到 u 的(最近)距离记作 dist(v, u)
+  TREE 联接的顶点：dist(source)恰好差 1
+  CROSS 联接的顶点：dist(source)至多差 1
+## 6-E DFS

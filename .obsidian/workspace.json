@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b412bc3c1fba56de",
+        "id": "6400ea0aa2a4a3fc",
         "type": "tabs",
         "children": [
           {
-            "id": "88200000e8206275",
+            "id": "fb973de4b335171a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/DSA.md",
+                "file": "算法基础/912 DSA复习笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DSA"
+              "title": "912 DSA复习笔记"
             }
           }
         ]
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -202,11 +201,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "88200000e8206275",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
-    "算法基础/补充算法.md",
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/DSA.md",
+    "算法基础/补充算法.md",
     "复习大纲/Images/Pasted image 20241031113153.png",
     "复习大纲/Images/Pasted image 20241031113454.png",
     "复习大纲/Images/Pasted image 20241031112344.png",

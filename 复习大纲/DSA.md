@@ -27,7 +27,7 @@
 ## 4-E 栈混洗
 * 栈混洗总数：$$SP(n) = \sum^{n}_{k=1}SP(k-1)\cdot SP(n-k)=\frac{(2n)!}{n!(n+1)!}$$
 * 禁形："312"
-* n 个元素的栈混洗=n 对括号的匹配
+* n 个元素的栈混洗 = n 对括号的匹配
 ## 4-F 中缀表达式
 ## 4-G 逆波兰表达式
 ### 4-G1 求值
@@ -152,7 +152,7 @@ DISCOVERED：在队列中
 VISITED：已出队列
 - TREE：v(DISCOVERED)->u(UNDISCOVERED)
 - CROSS：v(DISCOVERED)->u(DISCOVERED/VISITED)
-对图做 BFS 会生成一个 BFS 森林，包含 c 棵树，n-c 条 TREE，e-n+c 条 CROSS
+对图做 BFS 会生成一个 BFS 森林，包含 c 棵树，n-c 条 TREE（n 个点，如果只有一棵树则有n-1 条边），e-n+c 条 CROSS
 - 最短路径：无向图中，顶点 v 到 u 的(最近)距离记作 dist(v, u)
   TREE 联接的顶点：dist(source)恰好差 1
   CROSS 联接的顶点：dist(source)至多差 1

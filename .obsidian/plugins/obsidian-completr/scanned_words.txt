@@ -220,6 +220,7 @@ Tej
 Tti
 TlU
 TTfh
+TREE
 Convert
 Concerns
 CNNs
@@ -449,6 +450,7 @@ CQe
 Cbi
 CHM
 CAR
+CROSS
 PIL
 Parameters
 Pruning
@@ -3466,6 +3468,8 @@ DCub
 DARQ
 DHj
 DSA
+DAG
+DISCOVERED
 LLM
 Low
 Less
@@ -4382,6 +4386,7 @@ pWE
 pbQ
 pLR
 piz
+pointer
 executQuery
 effort
 el
@@ -7370,6 +7375,7 @@ UTD
 UXu
 Ujd
 UlnPpr
+UNDISCOVERED
 https
 horseee
 hours
@@ -8310,6 +8316,7 @@ fHo
 fJk
 fZj
 fuQB
+font
 You
 YX
 YO
@@ -10344,7 +10351,6 @@ date
 dateAdded
 diverse
 domains
-discovering
 disclosed
 databases
 database
@@ -10526,6 +10532,7 @@ dNi
 dJU
 dequeue
 dqub
+deg
 yx
 yW
 yKR
@@ -11365,6 +11372,7 @@ VrQ
 VEo
 Vpq
 VAO
+VISITED
 qM
 qK
 qI

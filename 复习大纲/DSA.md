@@ -167,4 +167,14 @@ VISITED：已出栈
 - FORWARD: v(DISCOVERED)->u(VISITED) && dTime(v) < dTime(u) （祖先指向后代）
 - CROSS: v(DISCOVERED)->u(VISITED) && dTime(v) > dTime(u) （表亲，MST 中除根节点没有公共祖先或后代）
 括号引理
-
+## 6-F 拓扑排序
+- 零入度算法 O(n+e)
+- 零出度算法（对图做 DFS，当节点标记为 VISITED，入栈，DFS 结束后弹出栈内元素）O(n+e)
+## 7-A 优先级搜索
+- 通过优先级数越大，优先级越低
+## 7-B MST
+### 7-B1 Prim
+- 合成数消歧
+- 完全图：无向图，其中每一对不同的顶点都只有一条边相连
+- Cayley 公式：联接 n 个互异顶点的树共有 $n^{n-2}$ 棵，完全图 Kn 有 $n^{n-2}$ 棵支撑树
+割：将图的顶点分为两不交子集

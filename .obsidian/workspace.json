@@ -101,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -201,7 +202,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "88200000e8206275",
   "lastOpenFiles": [
     "算法基础/补充算法.md",
     "算法基础/912 DSA复习笔记.md",

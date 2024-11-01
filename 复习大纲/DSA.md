@@ -157,3 +157,10 @@ VISITED：已出队列
   TREE 联接的顶点：dist(source)恰好差 1
   CROSS 联接的顶点：dist(source)至多差 1
 ## 6-E DFS
+UNDISCOVERED：未入栈
+DISCOVERED：在栈中
+VISITED：已出栈
+- TREE：v(DISCOVERE)->u(UNDISCOVERED)
+- BACKWARD: v(DISCOVERED)->u(DISCOVERED) （说明至少有一个回路）
+- FORWARD: v(DISCOVERED)->u(VISITED) && dTime(v) < dTime(u) （祖先指向后代）
+- CROSS: v(DISCOVERED)->u(VISITED) && dTime(v) > dTime(u) （表亲）

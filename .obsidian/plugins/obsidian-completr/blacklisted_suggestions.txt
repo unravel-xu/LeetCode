@@ -2,3 +2,9 @@ rank
 outperforms
 abcde
 discovering
+DISCOVERED
+backward
+forward
+ForwardIterator
+visited
+VISITED

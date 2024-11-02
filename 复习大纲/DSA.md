@@ -213,3 +213,6 @@ n 个互异节点随机组成的 BST 共有 Catalan(n) 棵
 - 等价 BST：中序遍历次序保持，上下联接关系变化
 - 经过不超过 O(n) 次旋转，等价的 BST 均可相互转化
 ## 8-D AVL
+- 平衡因子：balFac(v) = height(<font color="#d83931">lc</font>(v)) - height(<font color="#d83931">rc</font>(v))，$\mid balFac(v)\mid \leq 1$
+- 高度为 h 的 AVL 树，至少包含 $S(h) = fib(h+3) - 1$ 个节点
+- 

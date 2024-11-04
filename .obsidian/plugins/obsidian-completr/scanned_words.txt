@@ -3915,6 +3915,7 @@ MKM
 MNI
 MTUZ
 MdU
+MAD
 repetition
 retain
 rF
@@ -6965,6 +6966,7 @@ KQg
 KGZ
 KRq
 KRX
+Key
 Factorization
 FY
 Fn

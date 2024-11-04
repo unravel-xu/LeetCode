@@ -385,3 +385,8 @@ B\*树联合分裂：
 [[912 DSA复习笔记##11-G 跳转表]]
 # 12 优先级队列
 ## 12-B 完全二叉堆
+- 逻辑上：完全二叉树
+- 物理上：向量
+- 内部节点的最大秩：$\left\lfloor  \frac{n-2}{2}  \right\rfloor = \left\lceil  \frac{n-3}{2} \right\rceil$
+插入：
+- 逐层上滤：

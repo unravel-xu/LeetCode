@@ -415,4 +415,23 @@ B\*树联合分裂：
 2. delMax()：依次取优先级最高的顶点 $O(n\cdot d\cdot log_{d}n)$
 3. increase()：更新所有关联顶点的优先级 $O(e\cdot\log_{d} n)$
 总运行时间：$O((n\cdot d+e)\cdot \log_{d}n)$，当 $d\approx \frac{e}{n}+2$ 时，总体性能达到最优
-对稀疏图：$e\cdot \log_{\frac{e}{n+2}}n\approx n\cdot \log_{\frac{n}{n+2}}n=O(l)$
+对稀疏图保持高效：$e\cdot \log_{\frac{e}{n+2}}n\approx n\cdot \log_{\frac{n}{n+2}}n=O(n\log n)$
+对稠密图改进极大：$e\cdot \log_{\frac{e}{n+2}}n\approx n^2\cdot \log_{\frac{n^2}{n+2}}n\approx O(e)$
+- Fibonacci 堆
+	delMax() O(log n)
+	insert() O(1)
+	merge() O(1)
+	increase() O(1)
+$O((n\cdot d+e)\cdot \log_{d}n)\to n\cdot O(log n)+e\cdot O(1)$
+## 12-F 左式堆
+引入外部节点转为真二叉树
+- $npl(NULL) = 0$
+- $npl(x) = 1+\min(npl(x.lc), npl(x.rc))$
+$npl(x)$：节点到外部节点的<font color="#d83931">最近距离</font>
+	以节点为根的最大满子树高度
+左式堆：对任何内部节点都有 $npl(x.lc)\geq npl(x.rc)$
+	推论：
+		- $npl(x.lc) = npl(x.rc)+1$
+		- 左式堆的子堆必是左式堆
+		- 左式堆倾向于更多节点分布在左侧分支
+		- 左式堆的左子堆规模和高度可能小于右子堆

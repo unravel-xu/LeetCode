@@ -462,3 +462,16 @@ $npl(x)$：节点到外部节点的<font color="#d83931">最近距离</font>
 ## 13-G 键树
 ![](Images/Pasted%20image%2020241105193140.jpg)
 # 14 排序
+## 14-A 快速排序
+- 递归深度：最坏情况 $\Omega(n)$，平均情况 $O(\log n)$，假设 pivot 落在宽度为 $\lambda \cdot n$ 的居中区间，若 $\lambda> \frac{1}{3}$ ，至少有 $1-n^{-2}$ 的概率使递归的深度不超过 $\frac{1}{\lambda}\cdot \log_{\frac{2}{1+\lambda}}n = 3\cdot \log_{\frac{3}{2}}n$
+- 比较次数（后向分析）：$T(n) \approx 2\cdot n\cdot \ln n \approx 1.386\cdot n\log n$
+
+|     | 比较次数                           | 移动次数(对实际性能影响更大)             |
+| --- | ------------------------------ | --------------------------- |
+| 快排  | 平均 O(1.39 nlogn)<br>且高概率接近<br> | 平均不过 O(1.39 nlogn)<br>且实际更少 |
+| 归并  | 严格 O(nlogn)                    | 严格 O(nlogn)，实际往往加倍          |
+- DUP 版：当序列中存在大量元素重复，pivot 位置总是接近于 lo，二分递归退化为线性递归
+  从两端交替的向中间扫描 lo->pivot<-hi，处理重复元素时 lo 和 high 会交替移动，且移动距离大致相等，pivot 位置接近 $\frac{lo + hi}{2}$
+  DUP：G向左扩展，直到遇到<font color="#d83931">不大于</font>轴点者，L 向右扩展，直到遇到<font color="#d83931">不小于</font>轴点者
+  LUG：<font color="#d83931">小于</font>轴点者归入 L，<font color="#d83931">大于</font>轴点者归入 G
+## 14-B 选取

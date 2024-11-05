@@ -475,3 +475,7 @@ $npl(x)$：节点到外部节点的<font color="#d83931">最近距离</font>
   DUP：G向左扩展，直到遇到<font color="#d83931">不大于</font>轴点者，L 向右扩展，直到遇到<font color="#d83931">不小于</font>轴点者
   LUG：<font color="#d83931">小于</font>轴点者归入 L，<font color="#d83931">大于</font>轴点者归入 G
 ## 14-B 选取
+## 14-C 希尔排序
+- PS 序列$H_{PS} = \{2^k-1|k\in N\}$    $O(n^{\frac{3}{2}})$
+- Pratt 序列 $H_{Pratt} = \{2^p\cdot 3^q|p,q\in N\}$    $O(n\log^2n)$
+- Sedgewick 序列(PS 和 Pratt 的结合) $H_{Sedgewick} = \{9*4^k-9*2^k+1|k\geq 0\}\cup\{4^k-3*2^k+1|k\geq 2\}$    最差 $O(n^{\frac{4}{3}})$，平均 $O(n^{\frac{7}{6}})$

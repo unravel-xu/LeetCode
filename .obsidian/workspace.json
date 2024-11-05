@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "f7f2997cd1db1730",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
+            }
+          },
+          {
             "id": "d9b6ac93ada92aa6",
             "type": "leaf",
             "state": {
@@ -216,10 +228,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "d9b6ac93ada92aa6",
+  "active": "f7f2997cd1db1730",
   "lastOpenFiles": [
-    "复习大纲/DSA.md",
     "算法基础/912 DSA复习笔记.md",
+    "复习大纲/DSA.md",
     "复习大纲/Images/Pasted image 20241105193140.jpg",
     "算法基础/补充算法.md",
     "复习大纲/Images/Pasted image 20241104173152.png",

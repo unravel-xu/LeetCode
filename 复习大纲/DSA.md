@@ -1,6 +1,8 @@
 # 1 绪论
 ## 1-C 渐进复杂度
-- $T(n) = O(f(n)) \iff \exists c>0 s.t. $
+- $T(n) = O(f(n)) \iff \exists c>0 \quad s.t. \ T(n)<c\cdot f(n) \ \forall n\gg 2$（上界）
+- $T(n) = \Omega(f(n)) \iff \exists c>0 \quad s.t. \ T(n)>c\cdot f(n) \ \forall n\gg 2$（下界）
+- $T(n) = \Theta(f(n)) \iff \exists c_{1}>c_{2}>0 \quad s.t. \ c_{1}\cdot f(n)>T(n)>c_{2}\cdot f(n) \ \forall n\gg 2$（确界）
 # 3 列表
 ## 3-F 循环节
 * 由选择排序引入

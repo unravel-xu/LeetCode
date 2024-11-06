@@ -1,9 +1,19 @@
 # 1 绪论
 ## 1-C 渐进复杂度
-- $T(n) = O(f(n)) \iff \exists c>0 \quad s.t. \ T(n)<c\cdot f(n) \ \forall n\gg 2$（上界）
-- $T(n) = \Omega(f(n)) \iff \exists c>0 \quad s.t. \ T(n)>c\cdot f(n) \ \forall n\gg 2$（下界）
+- $T(n) = O(f(n)) \iff \exists c>0 \quad s.t. \ T(n)\leq c\cdot f(n) \ \forall n\gg 2$（渐近上界）
+- $T(n) = o(f(n)) \iff \exists c>0 \quad s.t. \ T(n)< c\cdot f(n) \ \forall n\gg 2$（严格上界）
+- $T(n) = \Omega(f(n)) \iff \exists c>0 \quad s.t. \ T(n)\geq c\cdot f(n) \ \forall n\gg 2$（渐近下界）
+- $T(n) = \omega(f(n)) \iff \exists c>0 \quad s.t. \ T(n)>c\cdot f(n) \ \forall n\gg 2$（严格下界）
 - $T(n) = \Theta(f(n)) \iff \exists c_{1}>c_{2}>0 \quad s.t. \ c_{1}\cdot f(n)>T(n)>c_{2}\cdot f(n) \ \forall n\gg 2$（确界）
-$\log^{*}n$：连续取多少次的对数
+O(1)：常数次循环、不可达分支、不可能成立的递归调用条件
+$\log^{*}n$：连续取对数使值 $\leq 1$ 的次数
+例：$\log_{2}^*16 = 3 \ \to (\log_{2}(\log_{2}(\log_{2}(16)))=\log_{2}(\log_{2}(4))=\log_{2}2=1)$
+## 1-D 复杂度分析-级数
+- 幂方级数：$T(n)=\Sigma_{k=0}^n k^d=O(n^{d+1})$    比幂次高出一阶
+- 几何级数：$T_{a}(n)=\Sigma_{k=0}^n a^k = O(a^n) \, \ 1<a$ 与末项同阶
+- 调和级数：$h(n)=\Sigma_{k=1}^n \frac{1}{k} = \ln n+\gamma+O\left( \frac{1}{2n} \right) =\Theta(log \ n)$
+- 对数级数：$\Sigma_{k=1}^n\ln k=\ln n! =\Theta(n\cdot \log n)$
+- 
 # 3 列表
 ## 3-F 循环节
 * 由选择排序引入

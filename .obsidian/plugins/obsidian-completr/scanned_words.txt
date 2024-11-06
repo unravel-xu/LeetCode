@@ -675,6 +675,7 @@ PeHQS
 PFzu
 Pye
 PDe
+Pratt
 Image
 Instruction
 In
@@ -5889,6 +5890,7 @@ SJp
 Swc
 SsK
 Steap
+Sedgewick
 World
 Why
 We

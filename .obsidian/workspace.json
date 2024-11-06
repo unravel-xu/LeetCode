@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "f7f2997cd1db1730",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.5"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.5"
-            }
-          },
-          {
             "id": "d9b6ac93ada92aa6",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "912 DSA复习笔记"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +215,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "f7f2997cd1db1730",
+  "active": "9ee72268612c193a",
   "lastOpenFiles": [
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/DSA.md",

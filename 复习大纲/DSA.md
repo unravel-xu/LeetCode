@@ -34,7 +34,8 @@ $\underbrace{A}_{n}\times \underbrace{C}_{n}$
 		$\underbrace{B}_{n}\times \underbrace{D}_{n}$
 	$\underbrace{B}_{n}\times \underbrace{C}_{n}$
 	$\underbrace{A}_{n}\times \underbrace{D}_{n}$
-需要算 4 个 $n \times n$ 乘法
+$B \times C + A \times D = A \times C + B \times D + (A-B) \times (D-C)$ 这样可以只算 3 个 $n \times n$ 乘法
+[912 DSAfu #01-E3递归与迭代 ：总和最大区段]
 # 3 列表
 ## 3-F 循环节
 * 由选择排序引入

@@ -8,12 +8,26 @@
 O(1)：常数次循环、不可达分支、不可能成立的递归调用条件
 $\log^{*}n$：连续取对数使值 $\leq 1$ 的次数
 例：$\log_{2}^*16 = 3 \ \to (\log_{2}(\log_{2}(\log_{2}(16)))=\log_{2}(\log_{2}(4))=\log_{2}2=1)$
-## 1-D 复杂度分析-级数
+## 1-D 复杂度分析
 - 幂方级数：$T(n)=\Sigma_{k=0}^n k^d=O(n^{d+1})$    比幂次高出一阶
 - 几何级数：$T_{a}(n)=\Sigma_{k=0}^n a^k = O(a^n) \, \ 1<a$ 与末项同阶
 - 调和级数：$h(n)=\Sigma_{k=1}^n \frac{1}{k} = \ln n+\gamma+O\left( \frac{1}{2n} \right) =\Theta(log \ n)$
 - 对数级数：$\Sigma_{k=1}^n\ln k=\ln n! =\Theta(n\cdot \log n)$
-- 
+- 组合：$\Sigma_{k=1}^nk\cdot \log k=O(n^2\log n)$
+	  $\Sigma_{k=1}^nk\cdot 2^k=O(n\cdot 2^n)$
+算法正确性的证明（以冒泡排序为例）：
+1. 不变性：经过 k 轮扫描交换后，最大的 k 个元素必然就位
+2. 单调性：经过 k 轮扫描交换后，问题规模缩减至 n-k
+3. 正确性：经过至多 n 趟扫描后，算法必然终止，且能给出正确解答
+## 1-E 递归与迭代
+空间复杂度：除了输入本身所占空间外，所需另加的用于计算所必须的空间总量
+递归实例的空间复杂度只和递归实例<font color="#d83931">树高</font>相关
+递归实例的时间复杂度和递归实例总数相关
+**主定理**：$T(n) = a\cdot T\left( \frac{n}{b} \right)+O(f(n))$
+1. 若 $n^{\log_{b}a} > f(n)$ 则 $T(n)=\Theta (n^{\log_{b}a})$
+2. 若 $f(n) > n^{\log_{b}a}$ 则 $T(n)=\Theta(f(n))$
+3. 若 $f(n) = \Theta(n^{\log_{b}a}\cdot \log^k n)$，则 $T(n)=\Theta(n^{\log_{b}a}\cdot \log^{k+1}n)$  $\textcolor{red}{k\geq 0}$
+
 # 3 列表
 ## 3-F 循环节
 * 由选择排序引入

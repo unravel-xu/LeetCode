@@ -27,7 +27,14 @@ $\log^{*}n$：连续取对数使值 $\leq 1$ 的次数
 1. 若 $n^{\log_{b}a} > f(n)$ 则 $T(n)=\Theta (n^{\log_{b}a})$
 2. 若 $f(n) > n^{\log_{b}a}$ 则 $T(n)=\Theta(f(n))$
 3. 若 $f(n) = \Theta(n^{\log_{b}a}\cdot \log^k n)$，则 $T(n)=\Theta(n^{\log_{b}a}\cdot \log^{k+1}n)$  $\textcolor{red}{k\geq 0}$
-
+		$\underbrace{A}_{n}\times \underbrace{B}_{n}$
+$\times$	        	$\underbrace{C}_{n}\times \underbrace{D}_{n}$
+——————————
+$\underbrace{A}_{n}\times \underbrace{C}_{n}$
+		$\underbrace{B}_{n}\times \underbrace{D}_{n}$
+	$\underbrace{B}_{n}\times \underbrace{C}_{n}$
+	$\underbrace{A}_{n}\times \underbrace{D}_{n}$
+需要算 4 个 $n \times n$ 乘法
 # 3 列表
 ## 3-F 循环节
 * 由选择排序引入

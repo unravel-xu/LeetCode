@@ -35,7 +35,8 @@
               "title": "912 DSA复习笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,10 +216,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9ee72268612c193a",
+  "active": "d9b6ac93ada92aa6",
   "lastOpenFiles": [
-    "算法基础/912 DSA复习笔记.md",
     "复习大纲/DSA.md",
+    "算法基础/912 DSA复习笔记.md",
     "复习大纲/Images/Pasted image 20241105193140.jpg",
     "算法基础/补充算法.md",
     "复习大纲/Images/Pasted image 20241104173152.png",

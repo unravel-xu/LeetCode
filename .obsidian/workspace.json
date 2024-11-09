@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6a7f6faeb5ffae00",
+        "id": "8019c60f486119f6",
         "type": "tabs",
         "children": [
           {
-            "id": "24b92950b42a148e",
+            "id": "a186e2d5ae380dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -96,8 +96,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -202,7 +201,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "24b92950b42a148e",
+  "active": "a186e2d5ae380dfe",
   "lastOpenFiles": [
     "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",

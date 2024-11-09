@@ -453,6 +453,8 @@ CAR
 CROSS
 Cayley
 Catalan
+CPU
+CPI
 PIL
 Parameters
 Pruning
@@ -931,6 +933,7 @@ IKL
 IGojO
 IcuH
 Ijl
+ISA
 or
 org
 original
@@ -11191,6 +11194,7 @@ GQS
 GBx
 GobqW
 GReW
+GHz
 VHS
 Vo
 Vr

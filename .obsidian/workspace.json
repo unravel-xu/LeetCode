@@ -96,7 +96,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -200,7 +201,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "24b92950b42a148e",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
     "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",

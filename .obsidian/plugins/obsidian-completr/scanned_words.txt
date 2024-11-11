@@ -3270,6 +3270,7 @@ NKv
 Nii
 NZK
 NÖE
+NaN
 DS
 Distillation
 DN
@@ -3700,6 +3701,7 @@ LSM
 LrE
 Llz
 LRCCCR
+LSB
 Model
 Max
 Mask
@@ -3926,6 +3928,7 @@ MNI
 MTUZ
 MdU
 MAD
+MSB
 repetition
 retain
 rF
@@ -7397,6 +7400,7 @@ UXu
 Ujd
 UlnPpr
 UNDISCOVERED
+Unicode
 https
 horseee
 hours

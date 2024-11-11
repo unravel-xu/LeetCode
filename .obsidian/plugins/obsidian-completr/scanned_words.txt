@@ -455,6 +455,7 @@ Cayley
 Catalan
 CPU
 CPI
+CISC
 PIL
 Parameters
 Pruning
@@ -1864,6 +1865,7 @@ ajU
 adL
 aJQ
 agv
+addr
 Resize
 Results
 Real
@@ -2080,6 +2082,7 @@ RhQm
 RpOAO
 RiJ
 RBTree
+RISC
 input
 image
 in
@@ -3485,6 +3488,7 @@ DSA
 DAG
 DISCOVERE
 DUP
+Disp
 LLM
 Low
 Less
@@ -3702,6 +3706,7 @@ LrE
 Llz
 LRCCCR
 LSB
+Load
 Model
 Max
 Mask
@@ -3929,6 +3934,7 @@ MTUZ
 MdU
 MAD
 MSB
+MIPS
 repetition
 retain
 rF
@@ -5899,6 +5905,7 @@ Swc
 SsK
 Steap
 Sedgewick
+Store
 World
 Why
 We
@@ -8345,6 +8352,7 @@ fuQB
 font
 fac
 ffff
+ffc
 You
 YX
 YO

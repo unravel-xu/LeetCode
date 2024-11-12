@@ -967,6 +967,7 @@ IGr
 IGx
 IAZ
 IlN
+Idle
 or
 org
 original
@@ -1933,6 +1934,8 @@ aKm
 aXz
 avif
 awU
+able
+arget
 Resize
 Results
 Real
@@ -2401,6 +2404,7 @@ iXB
 iZxw
 iqd
 ilE
+istory
 given
 github
 gt
@@ -4313,6 +4317,7 @@ riL
 rMC
 reJT
 rYI
+ranch
 penalty
 publicly
 post
@@ -8410,6 +8415,7 @@ uTc
 uZB
 ucg
 ukG
+uffer
 for
 fh
 fo
@@ -9114,6 +9120,8 @@ Bzy
 BusB
 Branch
 Beq
+BHT
+BTB
 Hessian
 Hk
 Hg

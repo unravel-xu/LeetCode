@@ -225,6 +225,7 @@ Tun
 TlS
 TeE
 Type
+TLB
 Convert
 Concerns
 CNNs
@@ -471,6 +472,10 @@ CYX
 Clock
 ClL
 CkePe
+Cache
+Cause
+Counter
+CAM
 PIL
 Parameters
 Pruning
@@ -700,6 +705,7 @@ PLPpp
 PtBb
 Pcw
 PhD
+Program
 Image
 Instruction
 In
@@ -2158,6 +2164,9 @@ RoS
 RegDst
 RegWr
 RAW
+Register
+RAM
+ROM
 input
 image
 in
@@ -3615,6 +3624,9 @@ DhL
 DyI
 DLX
 DYX
+DAM
+DVD
+DRAM
 LLM
 Low
 Less
@@ -4081,6 +4093,7 @@ Mfm
 MEM
 MemWr
 MemtoReg
+MOS
 repetition
 retain
 rF
@@ -5894,6 +5907,10 @@ EVl
 EdC
 EXE
 ExtOp
+ExcCode
+EPC
+Exception
+ERET
 Security
 Systems
 Structured
@@ -6119,6 +6136,9 @@ Sedgewick
 Store
 Swg
 Stall
+Status
+SAM
+SRAM
 World
 Why
 We
@@ -9122,6 +9142,7 @@ Branch
 Beq
 BHT
 BTB
+BadVAddr
 Hessian
 Hk
 Hg

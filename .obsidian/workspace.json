@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a713cf7e9c8719",
+        "id": "9bf0d2892be3162d",
         "type": "tabs",
         "children": [
           {
-            "id": "8455affadd36e6f3",
+            "id": "fb51518519d1aa7a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -100,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -200,8 +201,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8455affadd36e6f3",
+  "active": "fb51518519d1aa7a",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241113233316.png",
+    "复习大纲/Images/Pasted image 20241113233228.png",
+    "复习大纲/Images/Pasted image 20241113233204.png",
     "复习大纲/计组和OS公共部分.md",
     "复习大纲/计算机组成原理.md",
     "复习大纲/Images/Pasted image 20241113181120.png",
@@ -212,8 +216,6 @@
     "复习大纲/Images/Pasted image 20241112212149.png",
     "复习大纲/Images/Pasted image 20241112211129.png",
     "复习大纲/Images/Pasted image 20241112202514.png",
-    "复习大纲/Images/Pasted image 20241112210450.png",
-    "复习大纲/Images/Pasted image 20241112210124.png",
     "复习大纲/DSA.md",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",

@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8019c60f486119f6",
+        "id": "a4a713cf7e9c8719",
         "type": "tabs",
         "children": [
           {
-            "id": "a186e2d5ae380dfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "复习大纲/计算机组成原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "计算机组成原理"
-            }
-          },
-          {
-            "id": "9987612270e0d343",
+            "id": "8455affadd36e6f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "计组和OS公共部分"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,11 +201,11 @@
       "media-extended:Open media": false
     }
   },
-  "active": "9987612270e0d343",
+  "active": "8455affadd36e6f3",
   "lastOpenFiles": [
-    "复习大纲/Images/Pasted image 20241113181120.png",
-    "复习大纲/计算机组成原理.md",
     "复习大纲/计组和OS公共部分.md",
+    "复习大纲/计算机组成原理.md",
+    "复习大纲/Images/Pasted image 20241113181120.png",
     "复习大纲/Images/Pasted image 20241112215749.png",
     "复习大纲/Images/Pasted image 20241112214905.png",
     "复习大纲/Images/Pasted image 20241112214502.png",
@@ -230,7 +215,6 @@
     "复习大纲/Images/Pasted image 20241112202514.png",
     "复习大纲/Images/Pasted image 20241112210450.png",
     "复习大纲/Images/Pasted image 20241112210124.png",
-    "复习大纲/Images/Pasted image 20241112194453.png",
     "复习大纲/DSA.md",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",

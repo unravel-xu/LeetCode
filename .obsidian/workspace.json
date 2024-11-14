@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/计算机组成原理.md",
+                "file": "复习大纲/计组和OS公共部分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机组成原理"
+              "title": "计组和OS公共部分"
             }
           }
         ]
@@ -96,8 +96,7 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -204,8 +203,9 @@
   },
   "active": "fb51518519d1aa7a",
   "lastOpenFiles": [
-    "复习大纲/计组和OS公共部分.md",
+    "复习大纲/Images/Pasted image 20241114111702.png",
     "复习大纲/计算机组成原理.md",
+    "复习大纲/计组和OS公共部分.md",
     "复习大纲/Images/Pasted image 20241114101306.png",
     "复习大纲/Images/Pasted image 20241114091152.png",
     "复习大纲/Images/Pasted image 20241114090119.png",

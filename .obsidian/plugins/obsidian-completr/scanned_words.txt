@@ -5911,6 +5911,7 @@ ExcCode
 EPC
 Exception
 ERET
+EPROM
 Security
 Systems
 Structured
@@ -6139,6 +6140,7 @@ Stall
 Status
 SAM
 SRAM
+SSD
 World
 Why
 We
@@ -7482,6 +7484,8 @@ FPol
 FLj
 FVE
 Flash
+FLASH
+FTL
 Unstructured
 Um
 UH
@@ -9145,6 +9149,7 @@ BHT
 BTB
 BadVAddr
 Block
+BadVaddr
 Hessian
 Hk
 Hg

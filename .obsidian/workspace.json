@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "计算机组成原理"
             }
+          },
+          {
+            "id": "b042d9ee5e32e0f9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.6"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.6"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +214,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "fb51518519d1aa7a",
+  "active": "b042d9ee5e32e0f9",
   "lastOpenFiles": [
     "复习大纲/Images/Pasted image 20241114165838.png",
     "复习大纲/计组和OS公共部分.md",

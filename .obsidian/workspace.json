@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -216,7 +217,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "23e98c6575a95b64",
+  "active": "ff97030420527688",
   "lastOpenFiles": [
     "复习大纲/计算机组成原理.md",
     "复习大纲/Images/Pasted image 20241116101237.png",

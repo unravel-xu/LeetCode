@@ -2200,6 +2200,7 @@ RPM
 RAID
 RwC
 Rlxt
+RAND
 input
 image
 in
@@ -3912,6 +3913,7 @@ Lcz
 LCh
 Lovm
 Lvt
+LRU
 Model
 Max
 Mask
@@ -7594,6 +7596,7 @@ FKdy
 Ffda
 FMh
 FtR
+FIFO
 Unstructured
 Um
 UH

@@ -213,5 +213,9 @@ Miss1 -> TLB 缺失将产生异常：
 - 若发生 hit2，将页表项写入 TLB
 - 返回到用户程序
 - 重新访问
-
-![](Images/Pasted%20image%2020241116165148.png)
+![|500](Images/Pasted%20image%2020241116173444.png)
+![|200](Images/Pasted%20image%2020241116171659.png)
+![|500](Images/Pasted%20image%2020241116165148.png)
+![](Images/Pasted%20image%2020241116172808.png)
+![](Images/Pasted%20image%2020241116172722.png)
+# IO

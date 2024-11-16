@@ -202,11 +202,14 @@ Cache 接入系统的体系结构
 控制位：包括修改位、替换位
 有效位：表示该页是否已经装入主存
 ## TLB
-TLB 缺失将产生异常：
+TLB 也是 Cache，和 CPU Cache 一样，TLB 也分为数据 TLB 和指令 TLB，也有多种映射方式，也存在多层级
+TLB 缓存的是<font color="#ff0000">在 Cache 中的页表项组成的页表</font>
+![|500](Images/Pasted%20image%2020241116161919.png)
+![|500](Images/Pasted%20image%2020241116162809.png)
+Miss1 -> TLB 缺失将产生异常：
 - 流水线停止
 - 通知 OS
-- 读页表
-- 将表项写入 TLB
+- 查内存页表(也可能 TLB 和页表同步查询)
+- 若发生 hit2，将页表项写入 TLB
 - 返回到用户程序
 - 重新访问
-TLB 其实就是一块高速hua

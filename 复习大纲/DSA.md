@@ -73,7 +73,7 @@ $B \times C + A \times D = A \times C + B \times D + (A-B) \times (D-C)$ 这样�
 ## 3-G 插入排序
 ## 3-H 归并排序
 ## 3-I 逆序对
-	统计逆序对个数
+统计逆序对个数
 ## 3-J 游标
 * data：记录数据链头
 * free：记录空闲链头

@@ -35,7 +35,8 @@
               "title": "计组和OS公共部分"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -215,8 +217,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "87f9899e7f11c9f9",
+  "active": "e3e8f7d6f9a34e3d",
   "lastOpenFiles": [
+    "复习大纲/计算机组成原理.md",
     "复习大纲/计组和OS公共部分.md",
     "复习大纲/Images/Pasted image 20241117005136.png",
     "复习大纲/Images/Pasted image 20241117003628.png",
@@ -228,7 +231,6 @@
     "复习大纲/Images/Pasted image 20241116224350.png",
     "复习大纲/Images/Pasted image 20241116220742.png",
     "复习大纲/Images/Pasted image 20241116220510.png",
-    "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",

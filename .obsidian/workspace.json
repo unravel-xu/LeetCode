@@ -218,6 +218,7 @@
   },
   "active": "1f75e96e6304f91d",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241117214254.png",
     "复习大纲/操作系统.md",
     "复习大纲/计组和OS公共部分.md",
     "复习大纲/DSA.md",
@@ -262,7 +263,6 @@
     "LiteratureNotes/LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward.md",
     "LiteratureNotes/LiteratureNotes.md",
     "pytorch/基础语法学习/Transforms使用.md",
-    "pytorch/基础语法学习/Tensorboard使用.md",
-    "pytorch/基础语法学习/加载数据.md"
+    "pytorch/基础语法学习/Tensorboard使用.md"
   ]
 }

@@ -737,6 +737,8 @@ PXX
 PSWR
 PSW
 PPU
+PTBR
+PID
 Image
 Instruction
 In
@@ -5250,6 +5252,7 @@ Acy
 AHY
 AjTc
 Ariv
+ASID
 zotero
 zt
 zu
@@ -8993,6 +8996,7 @@ fHB
 fyVi
 fdpX
 fVnv
+flush
 You
 YX
 YO

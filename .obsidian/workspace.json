@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/计组和OS公共部分.md",
+                "file": "复习大纲/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计组和OS公共部分"
+              "title": "计算机组成原理"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/操作系统.md",
+                "file": "复习大纲/计组和OS公共部分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
+              "title": "计组和OS公共部分"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -115,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -216,24 +216,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1f75e96e6304f91d",
+  "active": "a5f13d5fcaeb02f7",
   "lastOpenFiles": [
+    "复习大纲/计算机组成原理.md",
+    "复习大纲/计组和OS公共部分.md",
+    "复习大纲/操作系统.md",
     "复习大纲/Images/Pasted image 20241118165826.png",
     "复习大纲/Images/Pasted image 20241118165221.png",
     "复习大纲/Images/Pasted image 20241118165017.png",
     "复习大纲/Images/Pasted image 20241118164801.png",
     "复习大纲/Images/Pasted image 20241118164614.png",
-    "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",
-    "复习大纲/计组和OS公共部分.md",
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/Images/Pasted image 20241118155056.png",
     "复习大纲/Images/Pasted image 20241118153926.png",
     "复习大纲/Images/Pasted image 20241118153709.png",
     "复习大纲/Images/Pasted image 20241118152203.png",
     "复习大纲/Images/Pasted image 20241118113307.png",
-    "复习大纲/Images/Pasted image 20241118111809.png",
-    "复习大纲/操作系统.md",
     "算法基础/补充算法.md",
     "复习大纲/Images",
     "复习大纲",

@@ -4246,6 +4246,7 @@ Mka
 MJT
 MjKD
 Miss
+MMU
 repetition
 retain
 rF
@@ -8510,6 +8511,7 @@ mGJ
 mJR
 mhmm
 meT
+malloc
 use
 um
 uz

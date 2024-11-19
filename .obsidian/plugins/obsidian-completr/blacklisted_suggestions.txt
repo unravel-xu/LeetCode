@@ -11,3 +11,5 @@ VISITED
 rIa
 RaI
 FIFO
+string
+String

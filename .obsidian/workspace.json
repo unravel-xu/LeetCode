@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "操作系统"
             }
+          },
+          {
+            "id": "d4038662e73b2f3e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -202,8 +214,9 @@
       "media-extended:Open media": false
     }
   },
-  "active": "861dafe86aedf6bd",
+  "active": "d4038662e73b2f3e",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241119211906.png",
     "复习大纲/Images/Pasted image 20241119205518.png",
     "复习大纲/Images/Pasted image 20241119203550.png",
     "复习大纲/Images/Pasted image 20241119201601.png",
@@ -215,7 +228,6 @@
     "复习大纲/Images/Pasted image 20241118235904.png",
     "复习大纲/Images/Pasted image 20241118235409.png",
     "复习大纲/Images/Pasted image 20241118235330.png",
-    "复习大纲/Images/Pasted image 20241118235156.png",
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",

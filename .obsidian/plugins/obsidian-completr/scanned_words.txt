@@ -495,6 +495,7 @@ Cwn
 Cpd
 Cnf
 CZM
+COW
 PIL
 Parameters
 Pruning
@@ -1510,6 +1511,7 @@ nsK
 nTq
 nvR
 nKl
+nice
 tensor
 to
 the
@@ -2259,6 +2261,7 @@ RJb
 Rea
 RhIX
 Rxw
+Root
 input
 image
 in
@@ -2514,6 +2517,7 @@ iME
 iXOX
 img
 initproc
+init
 given
 github
 gt
@@ -4759,6 +4763,7 @@ puO
 pMB
 pXQ
 pid
+ptrace
 executQuery
 effort
 el
@@ -5024,6 +5029,7 @@ eGq
 ejgB
 eHE
 exec
+exit
 Answer
 Automatic
 Af
@@ -5712,6 +5718,7 @@ kmn
 kOO
 kHY
 kKw
+kill
 QBGW
 Quantization
 QV
@@ -7077,6 +7084,8 @@ wFo
 wGve
 wEC
 waitpid
+write
+wait
 library
 longer
 lE
@@ -8004,6 +8013,7 @@ Uhr
 Uhu
 UBx
 USB
+Unix
 https
 horseee
 hours

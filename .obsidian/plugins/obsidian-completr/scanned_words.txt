@@ -2873,7 +2873,6 @@ sY
 sFv
 sFaI
 short
-string
 stack
 sum
 singly
@@ -3020,6 +3019,10 @@ sRD
 src
 sleep
 shell
+stride
+signed
+strideA
+strideB
 call
 creatStatement
 citekey
@@ -4263,6 +4266,7 @@ MJT
 MjKD
 Miss
 MMU
+MLFQ
 repetition
 retain
 rF
@@ -4764,6 +4768,7 @@ pMB
 pXQ
 pid
 ptrace
+pass
 executQuery
 effort
 el
@@ -6254,7 +6259,6 @@ SaI
 SFW
 STL
 Standard
-String
 Stack
 Solution
 SKT
@@ -6386,6 +6390,10 @@ SPrY
 SVY
 Sow
 Sgb
+SPN
+SJF
+SRT
+Stride
 World
 Why
 We
@@ -7777,6 +7785,8 @@ FtR
 FkvN
 FJT
 FCq
+FCFS
+FSS
 Unstructured
 Um
 UH
@@ -9733,6 +9743,7 @@ HAi
 HDE
 HEbb
 Hei
+HRRN
 ZWq
 ZVeG
 Zm

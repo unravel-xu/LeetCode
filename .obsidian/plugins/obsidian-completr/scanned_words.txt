@@ -3041,6 +3041,7 @@ stdout
 stdin
 signal
 spinlock
+sem
 call
 creatStatement
 citekey

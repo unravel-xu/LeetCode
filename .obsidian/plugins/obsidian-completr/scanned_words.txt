@@ -496,6 +496,8 @@ Cpd
 Cnf
 CZM
 COW
+CFS
+Ctrl
 PIL
 Parameters
 Pruning
@@ -1021,6 +1023,7 @@ IvJO
 IDATG
 IYNn
 IOP
+IPC
 or
 org
 original
@@ -3023,6 +3026,8 @@ stride
 signed
 strideA
 strideB
+stdout
+stdin
 call
 creatStatement
 citekey
@@ -4020,6 +4025,7 @@ LBN
 Lct
 LeetCode
 LFU
+Linux
 Model
 Max
 Mask
@@ -4267,6 +4273,7 @@ MjKD
 Miss
 MMU
 MLFQ
+MQMS
 repetition
 retain
 rF
@@ -6397,6 +6404,9 @@ SRT
 Stride
 SMP
 SQMS
+SIGINT
+SIGKILL
+SIGSEGV
 World
 Why
 We
@@ -8554,6 +8564,7 @@ mJR
 mhmm
 meT
 malloc
+more
 use
 um
 uz

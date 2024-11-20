@@ -236,6 +236,7 @@ TeB
 TaC
 ToBj
 Trap
+TCB
 Convert
 Concerns
 CNNs
@@ -743,6 +744,8 @@ PPU
 PTBR
 PID
 PCB
+Pipe
+POSIX
 Image
 Instruction
 In
@@ -1750,6 +1753,8 @@ tnU
 txrK
 tId
 through
+txtfile
+txt
 an
 attachments
 arxiv
@@ -2740,6 +2745,7 @@ guJo
 gyR
 gjm
 getpid
+grep
 size
 select
 should
@@ -4514,6 +4520,7 @@ rnp
 rJm
 rKSR
 riy
+rCore
 penalty
 publicly
 post
@@ -5042,6 +5049,7 @@ ejgB
 eHE
 exec
 exit
+exam
 Answer
 Automatic
 Af
@@ -6407,6 +6415,7 @@ SQMS
 SIGINT
 SIGKILL
 SIGSEGV
+Solaris
 World
 Why
 We
@@ -7344,6 +7353,7 @@ laN
 lLfp
 lIy
 lFRK
+linux
 Knowledge
 Ky
 Ku
@@ -8790,6 +8800,7 @@ uvS
 uiY
 uAbTU
 uOcvN
+uCore
 for
 fh
 fo
@@ -10661,6 +10672,7 @@ JuR
 JIB
 JMAJ
 JVsF
+Java
 vd
 vK
 vE

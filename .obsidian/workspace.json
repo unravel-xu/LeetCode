@@ -116,7 +116,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -218,6 +219,9 @@
   },
   "active": "930fe7c1ef151c82",
   "lastOpenFiles": [
+    "算法基础/912 DSA复习笔记.md",
+    "复习大纲/DSA.md",
+    "复习大纲/操作系统.md",
     "复习大纲/Images/Pasted image 20241120193453.png",
     "复习大纲/Images/Pasted image 20241120193338.png",
     "复习大纲/Images/Pasted image 20241120191020.png",
@@ -228,11 +232,7 @@
     "复习大纲/Images/Pasted image 20241120170732.png",
     "复习大纲/Images/Pasted image 20241120170514.png",
     "复习大纲/计算机组成原理.md",
-    "复习大纲/操作系统.md",
     "复习大纲/Images/Pasted image 20241120163157.png",
-    "复习大纲/Images/Pasted image 20241120153005.png",
-    "算法基础/912 DSA复习笔记.md",
-    "复习大纲/DSA.md",
     "复习大纲/计组和OS公共部分.md",
     "算法基础/补充算法.md",
     "复习大纲/Images",

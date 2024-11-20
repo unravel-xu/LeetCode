@@ -237,6 +237,7 @@ TaC
 ToBj
 Trap
 TCB
+Test
 Convert
 Concerns
 CNNs
@@ -499,6 +500,7 @@ CZM
 COW
 CFS
 Ctrl
+Compare
 PIL
 Parameters
 Pruning
@@ -746,6 +748,7 @@ PID
 PCB
 Pipe
 POSIX
+Peterson
 Image
 Instruction
 In
@@ -1755,6 +1758,7 @@ tId
 through
 txtfile
 txt
+turn
 an
 attachments
 arxiv
@@ -2270,6 +2274,7 @@ Rea
 RhIX
 Rxw
 Root
+Release
 input
 image
 in
@@ -3034,6 +3039,8 @@ strideA
 strideB
 stdout
 stdin
+signal
+spinlock
 call
 creatStatement
 citekey
@@ -3790,6 +3797,7 @@ DVb
 Dzx
 Dzl
 DMA
+Dekkers
 LLM
 Low
 Less
@@ -4032,6 +4040,8 @@ Lct
 LeetCode
 LFU
 Linux
+LWP
+Lock
 Model
 Max
 Mask
@@ -4280,6 +4290,7 @@ Miss
 MMU
 MLFQ
 MQMS
+McGuire
 repetition
 retain
 rF
@@ -5292,6 +5303,8 @@ AjTc
 Ariv
 ASID
 APP
+Acquire
+ABA
 zotero
 zt
 zu
@@ -6173,6 +6186,7 @@ EZZr
 EPSWR
 EAT
 EDF
+Eisenberg
 Security
 Systems
 Structured
@@ -6416,6 +6430,8 @@ SIGINT
 SIGKILL
 SIGSEGV
 Solaris
+Set
+Swap
 World
 Why
 We
@@ -9060,6 +9076,7 @@ fVnv
 flush
 fork
 forkexec
+flag
 You
 YX
 YO
@@ -10673,6 +10690,7 @@ JIB
 JMAJ
 JVsF
 Java
+JVM
 vd
 vK
 vE

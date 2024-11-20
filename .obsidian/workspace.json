@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/操作系统.md",
+                "file": "复习大纲/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
+              "title": "计算机组成原理"
             }
           }
         ]
@@ -204,6 +204,8 @@
   },
   "active": "861dafe86aedf6bd",
   "lastOpenFiles": [
+    "复习大纲/操作系统.md",
+    "复习大纲/Images/Pasted image 20241120163157.png",
     "复习大纲/Images/Pasted image 20241120153005.png",
     "复习大纲/Images/Pasted image 20241120113214.png",
     "复习大纲/Images/Pasted image 20241120112612.png",
@@ -213,9 +215,6 @@
     "复习大纲/Images/Pasted image 20241120111206.png",
     "复习大纲/Images/Pasted image 20241120110204.png",
     "复习大纲/Images/Pasted image 20241120105208.png",
-    "复习大纲/Images/Pasted image 20241120103025.png",
-    "复习大纲/Images/Pasted image 20241120102433.png",
-    "复习大纲/操作系统.md",
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",

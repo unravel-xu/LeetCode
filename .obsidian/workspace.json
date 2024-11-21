@@ -116,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -219,6 +218,10 @@
   },
   "active": "930fe7c1ef151c82",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241121201929.png",
+    "复习大纲/Images/Pasted image 20241121201459.png",
+    "复习大纲/Images/Pasted image 20241121200319.png",
+    "复习大纲/Images/Pasted image 20241121200235.png",
     "复习大纲/Images/Pasted image 20241121195953.png",
     "复习大纲/Images/Pasted image 20241121195854.png",
     "复习大纲/Images/Pasted image 20241121195731.png",
@@ -226,10 +229,6 @@
     "复习大纲/Images/Pasted image 20241121194658.png",
     "复习大纲/Images/Pasted image 20241121194353.png",
     "复习大纲/Images/Pasted image 20241121194309.png",
-    "复习大纲/Images/Pasted image 20241121194228.png",
-    "复习大纲/Images/Pasted image 20241121193856.png",
-    "复习大纲/Images/Pasted image 20241121193432.png",
-    "复习大纲/Images/Pasted image 20241121192258.png",
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/DSA.md",
     "复习大纲/操作系统.md",

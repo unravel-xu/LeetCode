@@ -501,6 +501,7 @@ COW
 CFS
 Ctrl
 Compare
+Count
 PIL
 Parameters
 Pruning
@@ -2275,6 +2276,7 @@ RhIX
 Rxw
 Root
 Release
+Rcount
 input
 image
 in
@@ -4293,6 +4295,7 @@ MLFQ
 MQMS
 McGuire
 MESA
+Mutex
 repetition
 retain
 rF
@@ -5308,6 +5311,7 @@ ASID
 APP
 Acquire
 ABA
+AND
 zotero
 zt
 zu

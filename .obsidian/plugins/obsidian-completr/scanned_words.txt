@@ -4292,6 +4292,7 @@ MMU
 MLFQ
 MQMS
 McGuire
+MESA
 repetition
 retain
 rF
@@ -5062,6 +5063,7 @@ eHE
 exec
 exit
 exam
+emptyBuffers
 Answer
 Automatic
 Af
@@ -7371,6 +7373,7 @@ lLfp
 lIy
 lFRK
 linux
+leave
 Knowledge
 Ky
 Ku
@@ -8592,6 +8595,7 @@ mhmm
 meT
 malloc
 more
+mutex
 use
 um
 uz
@@ -9078,6 +9082,7 @@ flush
 fork
 forkexec
 flag
+fullBuffers
 You
 YX
 YO
@@ -9787,6 +9792,8 @@ HDE
 HEbb
 Hei
 HRRN
+Hoare
+Hansen
 ZWq
 ZVeG
 Zm

@@ -750,6 +750,7 @@ PCB
 Pipe
 POSIX
 Peterson
+PWD
 Image
 Instruction
 In
@@ -1760,6 +1761,7 @@ through
 txtfile
 txt
 turn
+time
 an
 attachments
 arxiv
@@ -2533,6 +2535,7 @@ iXOX
 img
 initproc
 init
+inode
 given
 github
 gt
@@ -2753,6 +2756,7 @@ gyR
 gjm
 getpid
 grep
+gid
 size
 select
 should
@@ -3044,6 +3048,8 @@ stdin
 signal
 spinlock
 sem
+socket
+superblock
 call
 creatStatement
 citekey
@@ -3342,6 +3348,7 @@ cUB
 cbX
 cdfn
 cpe
+count
 Normalize
 New
 NY
@@ -5067,6 +5074,8 @@ exec
 exit
 exam
 emptyBuffers
+entry
+epoll
 Answer
 Automatic
 Af
@@ -5312,6 +5321,7 @@ APP
 Acquire
 ABA
 AND
+ACL
 zotero
 zt
 zu
@@ -5759,6 +5769,7 @@ kOO
 kHY
 kKw
 kill
+kernel
 QBGW
 Quantization
 QV
@@ -6908,6 +6919,8 @@ bMi
 bPYX
 bSt
 btX
+block
+bitmap
 wu
 work
 we
@@ -7834,6 +7847,7 @@ FJT
 FCq
 FCFS
 FSS
+FAT
 Unstructured
 Um
 UH
@@ -8601,6 +8615,7 @@ meT
 malloc
 more
 mutex
+mode
 use
 um
 uz
@@ -8827,6 +8842,7 @@ uiY
 uAbTU
 uOcvN
 uCore
+uid
 for
 fh
 fo
@@ -9088,6 +9104,7 @@ fork
 forkexec
 flag
 fullBuffers
+filesystem
 You
 YX
 YO
@@ -10955,6 +10972,7 @@ vRK
 vYA
 vce
 vfork
+vnode
 xH
 xh
 xa
@@ -11454,6 +11472,8 @@ dcZ
 dpQ
 dGO
 dor
+dnode
+dir
 yx
 yW
 yKR

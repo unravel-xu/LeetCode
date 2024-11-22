@@ -2279,6 +2279,7 @@ Rxw
 Root
 Release
 Rcount
+Replacement
 input
 image
 in
@@ -2295,7 +2296,6 @@ iN
 ib
 iL
 iO
-iNO
 iOa
 imkAHp
 ig
@@ -3050,6 +3050,7 @@ spinlock
 sem
 socket
 superblock
+step
 call
 creatStatement
 citekey
@@ -4052,6 +4053,7 @@ LFU
 Linux
 LWP
 Lock
+LOOK
 Model
 Max
 Mask
@@ -6452,6 +6454,7 @@ Set
 Swap
 SSFT
 SCAN
+SPOOLing
 World
 Why
 We
@@ -7850,6 +7853,9 @@ FCq
 FCFS
 FSS
 FAT
+FSCAN
+FBR
+Frequency
 Unstructured
 Um
 UH

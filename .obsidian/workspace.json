@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/操作系统.md",
+                "file": "复习大纲/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
+              "title": "计算机组成原理"
             }
           }
         ]
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -202,10 +201,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "ad11f59659015ae6",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
-    "复习大纲/计算机组成原理.md",
     "复习大纲/操作系统.md",
+    "复习大纲/计算机组成原理.md",
     "复习大纲/计组和OS公共部分.md",
     "复习大纲/Images/Pasted image 20241122200849.png",
     "复习大纲/Images/Pasted image 20241122200351.png",

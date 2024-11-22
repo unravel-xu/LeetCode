@@ -6450,6 +6450,8 @@ SIGSEGV
 Solaris
 Set
 Swap
+SSFT
+SCAN
 World
 Why
 We

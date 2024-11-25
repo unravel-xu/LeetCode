@@ -105,9 +105,22 @@ $F(n)\to G(2, F(n-1))\to F(n-1)\to G(2, F(n-2))\to ...$
 总体时间复杂度：$f(n)=f(n-1)+g(2,\ 2^{n-1}) = f(n-1)+O(2^{n-1})=O(2^n)$
 ```c
 int F(int n){
-
+	return (n>3) ? F(n>>1) + F(n>>2) : n;
 }
 ```
+$f(n) = f\left( \frac{n}{2} \right)+f\left( \frac{n}{4} \right) + 1$，令 $s(m) = f(2^m)$，$s(m) = s(m-1) + s(m-2) + 1$，再令 $t(m) = \frac{s(m)+1}{2}$
+可得 $t(m) = t(m-1)+t(m-2)$ (Fibonacci)
+所以 $t(m) = fib(m+1) = O(\Phi^m)$，$f(n) = O(n^{\log\Phi})$
+```c
+void F(int n){
+	for(int i=n; 0<i ; i--){
+	    if(!(rand()%i))
+	        for(int j=0;j<n;j++);
+	}
+}
+```
+假定属于均匀随机分布，所以 rand()能整除变量 i 的概率为 $\frac{1}{i}$，变量 i 的内循环平均迭代 $\frac{n}{i}$ 步，总体时间复杂度：
+$f(n) = \frac{n}{n} + \frac{n}{n-1} +...+ \frac{n}{1}=O(nlogn)$
 ## 1-E 递归与迭代
 空间复杂度：除了输入本身所占空间外，所需另加的用于计算所必须的空间总量
 递归实例的空间复杂度只和递归实例<font color="#d83931">树高</font>相关

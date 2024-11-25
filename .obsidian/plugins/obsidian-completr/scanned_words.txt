@@ -6939,6 +6939,7 @@ bSt
 btX
 block
 bitmap
+binSearch
 wu
 work
 we

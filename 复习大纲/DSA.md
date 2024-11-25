@@ -68,12 +68,29 @@ int G(int n){
 先分析 $G(n) = \Sigma \ 1+3+5+...+2n-1=n^2$，运行时间 $g(n) = O(n)$
 $F()$ 并非递归函数，其本身只消耗 $O(1)$ 时间，但 $F(n)$ 会启动 $G()$ 的<font color="#ff0000">两次递归</font>，入口参数分别为 $n-1$ 和 $(n-1)^2$，总体时间复杂度：
 $$\begin{align}
-F(n) & = O(1) + g(n-1) + g((n-1)^2) \\
+f(n) & = O(1) + g(n-1) + g((n-1)^2) \\
 & = O(1) + O(n-1) + O((n-1)^2) \\
 & = O(n^2)
 \end{align}
 $$
-
+```c
+void F(int n){
+	for(int i=1; i<n/G(i,0); i++);
+}
+int G(int n, int k){
+	return (n<1) ? k : G(n-2*k-1, k+1);
+}
+```
+先分析 $G(n)$，$G(n,0)\to G(n-1,1)\to G(n-4,2)\to G(n-9,3)...$
+所以 $g(n) = O(\lceil\sqrt{n}\rceil)$，F()终止迭代时 $i\geq \frac{n}{\lceil\sqrt{i}\rceil}$，所以 $i=\Theta(n^{\frac{2}{3}})$
+F()每轮运行时需要计算 $G(i,0)$，总体时间复杂度：
+$$\begin{align}
+f(n) & = g(1) + g(2) +...+ g(i_{\max}) \\
+& = O(\sqrt{1}) + O(\sqrt{2}) + O(\sqrt{n^{\frac{2}{3}}}) \\
+& = O(\int_{0}^{n^{\frac{2}{3}}} \sqrt{x} dx) \\
+& = O(n)
+\end{align}
+$$
 ## 1-E 递归与迭代
 空间复杂度：除了输入本身所占空间外，所需另加的用于计算所必须的空间总量
 递归实例的空间复杂度只和递归实例<font color="#d83931">树高</font>相关

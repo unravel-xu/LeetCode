@@ -35,7 +35,8 @@
               "title": "高数"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,10 +215,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "8e493a420113bcbc",
+  "active": "c44a6b516aadf7ee",
   "lastOpenFiles": [
-    "高数条件汇总/高数.md",
     "复习大纲/计算机组成原理.md",
+    "高数条件汇总/高数.md",
     "高数条件汇总",
     "复习大纲/Images/Pasted image 20241125113858.png",
     "复习大纲/Images/Pasted image 20241125113330.png",

@@ -91,6 +91,23 @@ f(n) & = g(1) + g(2) +...+ g(i_{\max}) \\
 & = O(n)
 \end{align}
 $$
+```c
+int F(int n){
+	return (n>0) ? G(2, F(n-1)) : 1;
+}
+int G(int n, int m){
+	return (m>0) ? n + G(n, m-1) : 0;
+}
+```
+$G(n,m) = n*m$，$F(n) = 2^n$，$g(n,m)=O(m)$
+![|650](Images/Pasted%20image%2020241125180259.png)
+$F(n)\to G(2, F(n-1))\to F(n-1)\to G(2, F(n-2))\to ...$
+总体时间复杂度：$f(n)=f(n-1)+g(2,\ 2^{n-1}) = f(n-1)+O(2^{n-1})=O(2^n)$
+```c
+int F(int n){
+
+}
+```
 ## 1-E 递归与迭代
 空间复杂度：除了输入本身所占空间外，所需另加的用于计算所必须的空间总量
 递归实例的空间复杂度只和递归实例<font color="#d83931">树高</font>相关

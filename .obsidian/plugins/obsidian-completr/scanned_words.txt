@@ -1283,6 +1283,7 @@ oKQ
 opZ
 oDF
 oOG
+oplus
 numpy
 ndarrayto
 ndarray
@@ -1523,6 +1524,7 @@ nTq
 nvR
 nKl
 nice
+neq
 tensor
 to
 the
@@ -2040,6 +2042,7 @@ auT
 aYvK
 aRD
 align
+addiu
 Resize
 Results
 Real
@@ -2757,6 +2760,7 @@ gjm
 getpid
 grep
 gid
+geq
 size
 select
 should
@@ -3051,6 +3055,10 @@ sem
 socket
 superblock
 step
+store
+subu
+sll
+sim
 call
 creatStatement
 citekey
@@ -5078,6 +5086,7 @@ exam
 emptyBuffers
 entry
 epoll
+epc
 Answer
 Automatic
 Af
@@ -7396,6 +7405,7 @@ lIy
 lFRK
 linux
 leave
+land
 Knowledge
 Ky
 Ku
@@ -8624,6 +8634,9 @@ malloc
 more
 mutex
 mode
+mfco
+multu
+mfhi
 use
 um
 uz
@@ -10503,6 +10516,7 @@ jyy
 jwy
 jSZ
 juEs
+jal
 Jl
 JY
 JSD
@@ -11482,6 +11496,7 @@ dGO
 dor
 dnode
 dir
+divu
 yx
 yW
 yKR

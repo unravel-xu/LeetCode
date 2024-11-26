@@ -3063,6 +3063,7 @@ store
 subu
 sll
 sim
+search
 call
 creatStatement
 citekey
@@ -5092,6 +5093,7 @@ emptyBuffers
 entry
 epoll
 epc
+expected
 Answer
 Automatic
 Af
@@ -7412,6 +7414,7 @@ lFRK
 linux
 leave
 land
+logn
 Knowledge
 Ky
 Ku

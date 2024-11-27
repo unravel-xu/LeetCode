@@ -307,7 +307,9 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 	 根节点深度为 0
 * 树高度（所有叶子深度中的最大值）
 	 空树高度为-1
-
+【习题 5-1】任何一棵二叉树，对其中任一节点 $v\in T$，总有 $depth(v)+height(v)\leq height(T)$，取等的充要条件是什么？
+>[!important]-
+>节点 v 是全树(某一)最深(叶)节点的祖先
 ## 5-B 树的表示
 1. 父节点表示法(vector)
 2. 孩子节点表示法(vector + list)
@@ -326,13 +328,17 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 	满足 $2^h \leq n \leq 2^(h+1)-1$
 ## 5-D 二叉树实现
 * 高度更新
+【习题 5-4】在逆行向上依次更新 x 各祖先高度的过程中，一旦发现某一祖先的高度没有发生变化，算法即可提前终止
+- 子树删除：需要将子树中的节点<font color="#ff0000">递归释放</font>并归还系统，时间复杂度 $O(待删除子树规模)$，空间复杂度 $O(待删除子树高度)$
 ## 5-E 先序遍历
 ## 5-F 中序遍历
 * 直接后继
+
 ## 5-G 后序遍历
 * 表达式树~后序遍历~RPN
 ## 5-H 层序遍历
 * 完全二叉树做层序遍历，辅助队列最大规模 ($\lceil  \frac{n}{2}  \rceil$，前 $\lceil  \frac{n}{2}  \rceil-1$ 次都出 1 进 2) 可能出现 2 次
+所有遍历：时间复杂度 O(n)，空间复杂度 O(n)
 ## 5-I 重构
 - 先序|后序 + 中序
 - 先序 + 后序 + 真二叉树
@@ -344,6 +350,7 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 ## 5-J Huffman 树
 * PFC 编码（前缀无歧义编码）
   不考虑字符频率，真完全二叉树即最优编码树
+- 最优编码树（Optimal encoding tree）
 - Huffman 树
   频率最低的字符 x、y，必在<font color="#d99694">某棵</font>最优编码树中处于最底层，且互为兄弟
 # 6 图

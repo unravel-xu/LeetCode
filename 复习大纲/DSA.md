@@ -360,6 +360,7 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 * PFC 编码（前缀无歧义编码）
   不考虑字符频率，真完全二叉树即最优编码树
 - 最优编码树（Optimal encoding tree）
+  【习题 5-27】考虑字符的出现频率后，最优编码树依然是真二叉树
 - Huffman 树
   频率最低的字符 x、y，必在<font color="#d99694">某棵</font>最优编码树中处于最底层，且互为兄弟
 # 6 图
@@ -377,8 +378,17 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 - 空间：$\Theta(n^2)$
 * 平面图：$e \leq 3n-6$
 - 压缩存储技术
+## 关联矩阵
+有向图中：
+![|300](Images/Pasted%20image%2020241127195719.png)
+无向图中：
+![|300](Images/Pasted%20image%2020241127195839.png)
+![|300](Images/Pasted%20image%2020241127200152.png)
+【习题 6-1】关联矩阵和邻接矩阵的联系：
+![|600](Images/Pasted%20image%2020241127200621.png)
+
 ## 6-C 邻接表
-将邻接矩阵的各行组织为列表，只记录存在的边
+将邻接矩阵的各行组织为<font color="#ff0000">列表</font>，只记录存在的边
 - 适用于稀疏图
 - 空间复杂度：
 	有向图：O(n+e)
@@ -709,7 +719,7 @@ $npl(x)$：节点到外部节点的<font color="#d83931">最近距离</font>
 ## 13-E BM-GS
 ## 13-F karp-Rabin
 - 快速指纹计算
-## 13-G 键树
+## 13-G 键树(trie)
 ![](Images/Pasted%20image%2020241105193140.jpg)
 # 14 排序
 ## 14-A 快速排序

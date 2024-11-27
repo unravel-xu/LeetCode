@@ -340,10 +340,13 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 * 表达式树~后序遍历~RPN
 ## 5-H 层序遍历
 * 完全二叉树做层序遍历，辅助队列最大规模 ($\lceil  \frac{n}{2}  \rceil$，前 $\lceil  \frac{n}{2}  \rceil-1$ 次都出 1 进 2) 可能出现 2 次
+![|500](Images/Pasted%20image%2020241127191247.png)
 【习题 5-19】对完全二叉树做层序遍历，整个遍历过程中，辅助队列的规模变化是对称的
 ![|500](Images/Pasted%20image%2020241127185530.png)
-非完全二叉树的遍历过程中，辅助队列的规模不可能达到 $\left\lceil  \frac{n}{2} \right\rceil$
-
+非完全二叉树的遍历过程中，辅助队列的规模仍可能达到 $\left\lceil  \frac{n}{2} \right\rceil$
+![|500](Images/Pasted%20image%2020241127191923.png)
+【习题 5-20】完全二叉树的层序遍历过程中，按入队(出队)次序从 0 开始将各节点 X 编号为 r(X)，如何判断任何一对节点之间是否存在“祖先-后代”关系？
+![|500](Images/Pasted%20image%2020241127193252.png)
 【习题 5-11】所有遍历：时间复杂度 O(n)，空间复杂度 O(n)
 ## 5-I 重构
 - 先序|后序 + 中序

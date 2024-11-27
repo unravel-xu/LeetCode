@@ -376,8 +376,9 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 - 获取顶点度数：O(1)
 - 添加、删除边后更新度数：O(1)
 - 空间：$\Theta(n^2)$
-* 平面图：$e \leq 3n-6$
+* 平面图：$e \leq 3n-6$（取等时，每张面恰好由 3 条边围成）
 - 压缩存储技术
+【习题 6-2】即便计入向量扩容所需时间，<font color="#ff0000">分摊</font>意义上，插入顶点算法的时间复杂度不超过 O(n)（最坏情况下 $O(n^2)$）
 ## 关联矩阵
 有向图中：
 ![|300](Images/Pasted%20image%2020241127195719.png)
@@ -386,7 +387,11 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 ![|300](Images/Pasted%20image%2020241127200152.png)
 【习题 6-1】关联矩阵和邻接矩阵的联系：
 ![|600](Images/Pasted%20image%2020241127200621.png)
-
+$$
+\begin{pmatrix}    1 & 1 & 1 & 1 & 0 & 0\\    1 & 1 & 0 & 0 & 1 & 0\\  0 & 0 & 0 & 1 & 1 & 1\\  0 & 0 & 1 & 0 & 0 & 1\\\end{pmatrix}\begin{pmatrix}    1 & 1 & 0 & 0\\  1 & 1 & 0 & 0\\  1 & 0 & 0 & 1\\  1 & 0 & 1 & 0\\  0 & 1 & 1 & 0\\  0 & 0 & 1 & 1\\\end{pmatrix}=\begin{array}{lc}\mbox{}&\begin{array}{cc}V_1&V_2&V_3&V_4 \end{array}\\\begin{array}{c}V_1\\V_2\\V_3\\V_4 \end{array}&\left[\begin{array}{cc}  4 & 2 & 1 & 1\\  2 & 3 & 1 & 0\\  1 & 1 & 3 & 1\\  1 & 0 & 1 & 2\\\end{array}\right]\end{array}
+$$
+有向图的关联矩阵和邻接矩阵的联系：
+![|600](Images/Pasted%20image%2020241127202549.png)
 ## 6-C 邻接表
 将邻接矩阵的各行组织为<font color="#ff0000">列表</font>，只记录存在的边
 - 适用于稀疏图

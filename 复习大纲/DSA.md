@@ -438,6 +438,8 @@ VISITED：已出栈
 - BACKWARD: v(DISCOVERED)->u(DISCOVERED) （后代指向祖先，且说明至少有一个回路）
 - FORWARD: v(DISCOVERED)->u(VISITED) && dTime(v) < dTime(u) （祖先指向后代）
 - CROSS: v(DISCOVERED)->u(VISITED) && dTime(v) > dTime(u) （表亲，MST 中除根节点没有公共祖先或后代）
+DFS 森林所有边数都不唯一
+![|400](Images/Pasted%20image%2020241128213236.png)
 括号引理
 ## 6-F 拓扑排序
 - 零入度算法 O(n+e)
@@ -492,6 +494,9 @@ n 个互异节点随机组成的 BST 共有 Catalan(n) 棵
 假设所有 BST 等概率出现，则平均高度为 $\Theta(\sqrt{ n })$
 - 等价 BST：中序遍历次序保持，上下联接关系变化
 - 经过不超过 O(n) 次旋转，等价的 BST 均可相互转化
+【习题 7-10】
+![](Images/Pasted%20image%2020241128214803.png)
+针对 $(e-\epsilon,\ e+\epsilon)$ 各做一次查找，并确定查找路径终点的最低公共祖先；在从公共祖先通往这两个终点的路径上，自上而下地根据各层的分支方向，相应地忽略整个分支
 ## 8-D AVL
 - 平衡因子：balFac(v) = height(<font color="#d83931">lc</font>(v)) - height(<font color="#d83931">rc</font>(v))，$\mid balFac(v)\mid \leq 1$
 - 高度为 h 的 AVL 树，至少包含 $S(h) = fib(h+3) - 1$ 个节点（S(0) = 1）
@@ -525,7 +530,6 @@ KD 树就是把数据所在的空间划分为特定的几个部分，然后在�
 划分完后，左右区域均无未划分节点，回溯发现第二轮的上下划分区域均处理完毕，直接递归回溯处理第一轮划分产生的右区域
 ![](Images/Pasted%20image%2020241102155017.png)
 ![](Images/Pasted%20image%2020241102155030.png)
-
 查询
 如果当前子树对应的矩形（范围）与所求矩形（范围）没有交点，则不继续搜索其子树；如果当前子树对应的矩形完全包含在所求矩形内，返回当前子树内所有点的权值和；否则，判断当前点是否在所求矩形内，更新答案并递归在左右子树中查找答案。
 ## 9-C~XC 其他树

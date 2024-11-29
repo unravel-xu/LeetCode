@@ -613,6 +613,15 @@ B\*树联合分裂：
 - 所有的 AVL 树都可以染成红黑树，AVL 树对于左右子树的高度平衡要求比红黑树更严格
 - 包含 n 个内部节点的红黑树高度：$\log_{2}(n+1)\leq h\leq 2*\log_{2}(n+1)$
 - 树高 h，黑高 H，红高 R，$H\leq h\leq R+H\leq 2*H$
+【8-13】考查含有 2012 个内部节点的红黑树
+a，b）该树可能的最小和最大黑高度是多少？
+![](Images/Pasted%20image%2020241129213451.png)
+![](Images/Pasted%20image%2020241129213508.png)
+c，d）该树可能的最小和最大高度是多少？
+树高不低于 $\lfloor log_2N\rfloor = 10$
+![](Images/Pasted%20image%2020241129214413.png)
+![](Images/Pasted%20image%2020241129214523.png)
+
 [如何记忆红黑树的操作](https://martinlwx.github.io/zh-cn/how-to-memorize-insertion-and-deletion-in-rb-tree/)
 ![|400](Images/Pasted%20image%2020241104165740.png)
 特别注意：第二种节点映射意味着可以做等价结构变化

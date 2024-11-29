@@ -34,8 +34,23 @@
               "icon": "lucide-file",
               "title": "912 DSA复习笔记"
             }
+          },
+          {
+            "id": "82a8d217f2d5f71b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复习大纲/操作系统.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "操作系统"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -115,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -216,8 +230,10 @@
       "media-extended:Open media": false
     }
   },
-  "active": "91f3b200cef085a2",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
+    "复习大纲/DSA.md",
+    "复习大纲/Images/Pasted image 20241129205239.png",
     "复习大纲/Images/Pasted image 20241129202149.png",
     "复习大纲/Images/Pasted image 20241129201201.png",
     "复习大纲/Images/Pasted image 20241129200454.png",
@@ -227,10 +243,7 @@
     "复习大纲/Images/Pasted image 20241128221833.png",
     "复习大纲/Images/Pasted image 20241128215341.png",
     "复习大纲/Images/Pasted image 20241128214803.png",
-    "复习大纲/Images/Pasted image 20241128213236.png",
-    "复习大纲/Images/Pasted image 20241128201657.png",
     "算法基础/912 DSA复习笔记.md",
-    "复习大纲/DSA.md",
     "复习大纲/操作系统.md",
     "算法基础/补充算法.md",
     "复习大纲/计算机组成原理.md",

@@ -199,7 +199,9 @@ $CT_n$ 成功总长度 $S\cdot(n-1)+(d+2)$，
 ![](Images/Pasted%20image%2020241125230158.png)
 ![](Images/Pasted%20image%2020241125230441.png)
 ![|500](Images/Pasted%20image%2020241125230941.png)
-
+【习题 12-12】上述命题进一步推广
+![|500](Images/Pasted%20image%2020241130170305.png)
+![|500](Images/Pasted%20image%2020241130170400.png)
 # 3 列表
 【习题 3-6】![](Images/Pasted%20image%2020241126215927.png)
 1. 新元素总是作为首节点被插入
@@ -864,6 +866,12 @@ b）使用 Galil 规则，最坏情况下也只要线性时间
   LUG：<font color="#d83931">小于</font>轴点者归入 L，<font color="#d83931">大于</font>轴点者归入 G
 ## 14-B 选取
 ## 14-C 希尔排序
+- g 有序的向量再经过 h 排序后，依然保持 g 有序
 - PS 序列$H_{PS} = \{2^k-1|k\in N\}$    $O(n^{\frac{3}{2}})$
 - Pratt 序列 $H_{Pratt} = \{2^p\cdot 3^q|p,q\in N\}$    $O(n\log^2n)$
+  【习题 12-14】使用 Pratt 序列对长度为 n 的向量 S 做排序
+  a）若 S 已经(2，3)有序，则只需 O(n)时间可以使之完全有序
+  在(2，3)有序的序列中，逆序元素之间的间距不超过(2-1)\*(3-1)-1=1
+  故整个向量中包含的逆序对不超过 O(n)个
+  b）对任何 $h_k\in H_{Pratt}$，若 S 已是 $(2h_k,3h_k)$ 有序，则只需 O(n)时间即可使之 $h_k$ 有序
 - Sedgewick 序列(PS 和 Pratt 的结合) $H_{Sedgewick} = \{9*4^k-9*2^k+1|k\geq 0\}\cup\{4^k-3*2^k+1|k\geq 2\}$    最差 $O(n^{\frac{4}{3}})$，平均 $O(n^{\frac{7}{6}})$

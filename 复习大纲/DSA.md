@@ -338,10 +338,17 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
    ![](Images/Pasted%20image%2020241201203856.png)
 5. 一组输入 MAMAMIA 入栈，要求出栈顺序也是 MAMAMIA 共有多少种方案？
    枚举，用 j 表示进，c 表示出
-   (1) jc jc jc jc jc jc jc
-   (2)jjj ccc jc jc jc jc
-   (3)jjj c jc cc jc jc jc
-   (4)jjj 
+   (1)jc jc jc jc jc jc jc
+   (2)jc jc jjj ccc jc jc
+   (3)jc jjj ccc jc jc jc
+   (4)jjj c jc jccc jc jc
+   (5)jjj cc jj c cc jc jc
+   (6)jjj ccc jc jc jc jc
+   (7)jjjjj ccccc jc jc
+6. 程序执行过程中，调用栈中若同时有多帧对应同一函数。则它们必然依次紧邻排列 (×)
+   比如函数 f(n)调用 g(n),g(n)调用 f(n-1)，函数 f 被函数 g 隔开
+7. 基于列表派生出栈，无论将哪一端当作栈顶，pop 和 push 的接口时间复杂度都是𝑂(1)
+   邓书中实现的列表是相当于是双向链表
 # 5 二叉树
 ## 5-A 树
 * 节点深度（边数）

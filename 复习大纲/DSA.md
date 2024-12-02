@@ -497,10 +497,16 @@ $$
 ## 其他方式
 ### 逆邻接表
 邻接表记录出度，逆邻接表记录入度
+![|400](Images/ced0a38074cb47489f9201c21e3e6de7~tplv-k3u1fbpfcp-zoom-in-crop-mark_1512_0_0_0.webp)
+图中的 adjvex 记录顶点下标
 ### 十字链表
 结合邻接表和逆邻接表
-顶点信息：data、firstin(指向顶点的入边表中第一个节点)、firstout
-边信息：
+![](Images/Pasted%20image%2020241202103222.png)
+优点：
+- 容易找到 v 的入边(firstin->headlink->headlink->…)和出边
+- 容易删除边或顶点
+- 适用于有向图
+- 空间复杂度：$O(V+E)$
 ### 邻接多重表
 
 ## 6-D BFS

@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,7 +244,7 @@
       "media-extended:Open media": false
     }
   },
-  "active": "b516af9669868382",
+  "active": "157e0d1401f0dc9c",
   "lastOpenFiles": [
     "复习大纲/计算机组成原理.md",
     "复习大纲/计组和OS公共部分.md",

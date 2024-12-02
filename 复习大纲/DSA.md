@@ -406,6 +406,7 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
 	无法通过中序的增强序列重构
 ## 5-J Huffman 树
 * PFC 编码（前缀无歧义编码）
+  ![|400](Images/fec822bc7261eb4a84ac935b199cce6.png)
   不考虑字符频率，真完全二叉树即最优编码树
 - 最优编码树（Optimal encoding tree）
   【习题 5-27】考虑字符的出现频率后，最优编码树依然是真二叉树
@@ -424,9 +425,11 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
    可能大于等于但不可能小于
 5. 哈夫曼树交换不同深度子树，编码成本必然增加 (×)
    ![](Images/Pasted%20image%2020241201220654.png)
-6. 9 个字符出现频率为 0,1,1,2,3,5,8,13,21，其哈夫曼编码最大长度是 8
-   ![|200](Images/Pasted%20image%2020241201221433.png)
-
+6. 若仅使用 9 个字符，且他们出现的频率分别为{1,1,2,3,5,8,13,33,36},则按照 Huffman 算法对长度为 2023 的随机字符串做编码，所需比特位数的期望值是？
+   ![|200](Images/Pasted%20image%2020241201223639.png)
+   ![](Images/Pasted%20image%2020241201223723.png)
+7. 出现频率为{1,2,3,3}的一组字符共有（ ）种 huffman 编码方案
+   ![|650](Images/Pasted%20image%2020241201223848.png)
 # 6 图
 ## 6-A 概述
 - v-v：邻接    v-e：关联

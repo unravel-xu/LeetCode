@@ -11026,6 +11026,7 @@ vYA
 vce
 vfork
 vnode
+vruntime
 xH
 xh
 xa

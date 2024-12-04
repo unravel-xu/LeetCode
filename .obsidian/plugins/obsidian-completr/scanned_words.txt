@@ -2291,6 +2291,7 @@ Root
 Release
 Rcount
 Replacement
+RVMMOREOTRVMP
 input
 image
 in
@@ -3371,6 +3372,7 @@ ccccc
 cce
 ced
 crop
+crane
 Normalize
 New
 NY
@@ -5800,6 +5802,7 @@ kHY
 kKw
 kill
 kernel
+kmp
 QBGW
 Quantization
 QV
@@ -9627,6 +9630,7 @@ BEUMNUq
 BWA
 BIq
 Belady
+BABABBBBABABBABBA
 Hessian
 Hk
 Hg
@@ -9867,6 +9871,7 @@ Hei
 HRRN
 Hoare
 Hansen
+HHFBHHFHHFBSHF
 ZWq
 ZVeG
 Zm
@@ -11529,6 +11534,7 @@ dor
 dnode
 dir
 divu
+delmax
 yx
 yW
 yKR

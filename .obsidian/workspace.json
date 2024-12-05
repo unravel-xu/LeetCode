@@ -204,6 +204,7 @@
   },
   "active": "1d50359bcc8bf8a4",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241205143344.png",
     "复习大纲/算法.md",
     "复习大纲/计组和OS公共部分.md",
     "复习大纲/DSA.md",
@@ -248,7 +249,6 @@
     "一些资料/合集.md",
     "LiteratureNotes/Link_ Black-Box Detection of Cross-Site Scripting Vulnerabilities Using Reinforcement Learning.md",
     "LiteratureNotes/LLM-Powered Code Vulnerability Repair with Reinforcement Learning and Semantic Reward.md",
-    "LiteratureNotes/LiteratureNotes.md",
-    "pytorch/基础语法学习/Transforms使用.md"
+    "LiteratureNotes/LiteratureNotes.md"
   ]
 }

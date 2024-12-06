@@ -2198,6 +2198,9 @@ aQg
 aYY
 aYn
 aRn
+asm
+add
+addi
 Resize
 Results
 Real
@@ -2466,6 +2469,8 @@ RsS
 RVZj
 RVV
 RII
+RegWrite
+RegisterRd
 input
 image
 in
@@ -3288,6 +3293,7 @@ sDyy
 sjZ
 shnWC
 spk
+slti
 call
 creatStatement
 citekey
@@ -4374,6 +4380,7 @@ LuGh
 LMK
 Lvuu
 Layer
+Loop
 Model
 Max
 Mask
@@ -7444,6 +7451,7 @@ bbc
 blDD
 bww
 bJJ
+bne
 wu
 work
 we
@@ -7955,6 +7963,7 @@ lRb
 lxo
 lHh
 lsKs
+loop
 Knowledge
 Ky
 Ku
@@ -11324,6 +11333,7 @@ jhX
 jjk
 jqqq
 jjkFl
+jump
 Jl
 JY
 JSD

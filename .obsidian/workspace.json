@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "计算机组成原理"
             }
+          },
+          {
+            "id": "15ee18d3ad7698e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "复习大纲/计组和OS公共部分.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "计组和OS公共部分"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,24 +217,23 @@
       "media-extended:Open media": false
     }
   },
-  "active": "08cbd1eadf80fc8f",
+  "active": "15ee18d3ad7698e7",
   "lastOpenFiles": [
+    "复习大纲/计算机组成原理.md",
+    "复习大纲/计组和OS公共部分.md",
+    "复习大纲/Images/Pasted image 20241206215857.png",
+    "复习大纲/Images/Pasted image 20241206215424.png",
+    "复习大纲/Images/Pasted image 20241206215004.png",
+    "复习大纲/Images/Pasted image 20241206214451.png",
+    "复习大纲/Images/Pasted image 20241206214407.png",
     "复习大纲/Images/Pasted image 20241206210550.png",
     "复习大纲/Images/Pasted image 20241206210251.png",
     "复习大纲/Images/Pasted image 20241206205729.png",
     "复习大纲/Images/Pasted image 20241206201849.png",
     "复习大纲/Images/Pasted image 20241206200411.png",
-    "复习大纲/Images/Pasted image 20241206175341.png",
-    "复习大纲/Images/Pasted image 20241206174212.png",
-    "复习大纲/Images/Pasted image 20241206173217.png",
-    "复习大纲/Images/Pasted image 20241206173032.png",
-    "复习大纲/Images/Pasted image 20241206172348.png",
-    "复习大纲/Images/Pasted image 20241206164107.png",
-    "复习大纲/计组和OS公共部分.md",
     "复习大纲/DSA.md",
     "复习大纲/算法.md",
     "复习大纲/操作系统.md",
-    "复习大纲/计算机组成原理.md",
     "算法基础/补充算法.md",
     "复习大纲/Images/control.png.crdownload",
     "复习大纲/算法题",

@@ -2470,6 +2470,7 @@ RVV
 RII
 RegWrite
 RegisterRd
+RGB
 input
 image
 in
@@ -4647,6 +4648,8 @@ MbR
 MfD
 Mjkk
 MEX
+MHZ
+Mhz
 repetition
 retain
 rF
@@ -6215,6 +6218,7 @@ kXV
 ktttD
 kKkKttv
 kjb
+kseg
 QBGW
 Quantization
 QV

@@ -192,8 +192,16 @@ M：脏位
 ````tab
 tab: 1
 **块内偏移：log16=4位；块号：log(64K/16)=12位；标记位：32-4-12=16位；先根据块号找到对应的cache行**
-
-![](Images/Pasted%20image%2020241207112107.png)
+![|375](Images/Pasted%20image%2020241207114821.png)
+tab: 2
+**第二步：对比标记位**
+![|375](Images/Pasted%20image%2020241207114953.png)
+tab: 3
+**第三步：确定有效位=1**
+![|375](Images/Pasted%20image%2020241207115137.png)
+tab: 4
+**第四步：根据块内偏移找到对应的块**
+![|375](Images/Pasted%20image%2020241207115357.png)
 ````
 2. 全相连映射(随意放)
 ![](Images/Pasted%20image%2020241116113606.png)

@@ -813,6 +813,8 @@ PzZ
 Ptt
 PLl
 PAE
+PDE
+PTE
 Image
 Instruction
 In
@@ -10344,6 +10346,7 @@ BMs
 Bkv
 BuU
 BBBd
+Bytes
 Hessian
 Hk
 Hg
@@ -12097,6 +12100,7 @@ xHL
 xNh
 xkUx
 xYo
+xEC
 dA
 dU
 dT

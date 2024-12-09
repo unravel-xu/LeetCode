@@ -3300,6 +3300,7 @@ sjZ
 shnWC
 spk
 slti
+switch
 call
 creatStatement
 citekey
@@ -4911,6 +4912,7 @@ rsm
 rjZ
 rle
 rkH
+risc
 penalty
 publicly
 post
@@ -5485,6 +5487,7 @@ ege
 eCBC
 eZVn
 eSl
+ecall
 Answer
 Automatic
 Af
@@ -6692,6 +6695,7 @@ ETh
 ENJL
 EuY
 Evqx
+Eax
 Security
 Systems
 Structured

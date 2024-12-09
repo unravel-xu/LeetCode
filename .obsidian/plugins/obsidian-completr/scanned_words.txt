@@ -550,6 +550,7 @@ CAY
 CGr
 CzS
 CZv
+CLOCK
 PIL
 Parameters
 Pruning
@@ -7461,6 +7462,7 @@ bww
 bJJ
 bne
 bit
+belady
 wu
 work
 we

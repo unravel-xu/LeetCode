@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/计组和OS公共部分.md",
+                "file": "复习大纲/操作系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计组和OS公共部分"
+              "title": "操作系统"
             }
           }
         ],
@@ -219,6 +219,8 @@
   },
   "active": "749086d67df51e09",
   "lastOpenFiles": [
+    "复习大纲/计组和OS公共部分.md",
+    "复习大纲/Images/Pasted image 20241209184949.png",
     "复习大纲/Images/Pasted image 20241209184745.png",
     "复习大纲/Images/Pasted image 20241208232610.png",
     "复习大纲/Images/Pasted image 20241208230802.png",
@@ -229,9 +231,6 @@
     "复习大纲/Images/Pasted image 20241208214558.png",
     "复习大纲/Images/Pasted image 20241208214510.png",
     "复习大纲/计算机组成原理.md",
-    "复习大纲/计组和OS公共部分.md",
-    "复习大纲/Images/Pasted image 20241208203900.png",
-    "复习大纲/Images/Pasted image 20241208203615.png",
     "复习大纲/DSA.md",
     "复习大纲/算法.md",
     "复习大纲/操作系统.md",

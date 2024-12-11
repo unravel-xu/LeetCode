@@ -96,11 +96,13 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -203,6 +205,11 @@
   "active": "db12b36e35ad9c48",
   "lastOpenFiles": [
     "复习大纲/计算机组成原理.md",
+    "复习大纲/Images/Pasted image 20241211230233.png",
+    "复习大纲/Images/Pasted image 20241211230136.png",
+    "复习大纲/Images/Pasted image 20241211230013.png",
+    "复习大纲/Images/Pasted image 20241211225738.png",
+    "复习大纲/Images/Pasted image 20241211225659.png",
     "复习大纲/计算机网络.md",
     "复习大纲/Images/Pasted image 20241211215705.png",
     "复习大纲/Images/Pasted image 20241211215114.png",
@@ -211,11 +218,6 @@
     "高数条件汇总/高数.md",
     "复习大纲/Images/Pasted image 20241211213117.png",
     "复习大纲/Images/Pasted image 20241211185732.png",
-    "复习大纲/Images/Pasted image 20241211183126.png",
-    "复习大纲/Images/Pasted image 20241211174247.png",
-    "复习大纲/Images/Pasted image 20241211160353.png",
-    "复习大纲/Images/Pasted image 20241211141615.png",
-    "复习大纲/Images/Pasted image 20241211141440.png",
     "C++基础/快速入门.md",
     "算法基础/912 DSA复习笔记.md",
     "复习大纲/DSA.md",

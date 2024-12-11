@@ -264,6 +264,8 @@ TWU
 TVZ
 TRA
 TYVY
+TCP
+Telnet
 Convert
 Concerns
 CNNs
@@ -816,6 +818,9 @@ PLl
 PAE
 PDE
 PTE
+PDU
+PCI
+POP
 Image
 Instruction
 In
@@ -1122,6 +1127,11 @@ Iya
 IjZ
 ILJ
 IntelX
+IDU
+ICI
+Internet
+ICMP
+ISO
 or
 org
 original
@@ -2477,6 +2487,7 @@ RII
 RegWrite
 RegisterRd
 RGB
+RARP
 input
 image
 in
@@ -3860,6 +3871,7 @@ NJL
 NRSS
 NgZ
 Nxw
+Network
 DS
 Distillation
 DN
@@ -4126,6 +4138,7 @@ DDC
 DXX
 DeN
 Dyxx
+DNS
 LLM
 Low
 Less
@@ -5752,6 +5765,7 @@ AlSV
 AVn
 AAA
 AAAT
+ARP
 zotero
 zt
 zu
@@ -6951,6 +6965,8 @@ SVf
 SOQpHH
 SSC
 SaH
+SDU
+SMTP
 World
 Why
 We
@@ -8497,6 +8513,7 @@ FcX
 FKB
 FDDHHh
 FEG
+FTP
 Unstructured
 Um
 UH
@@ -8754,6 +8771,7 @@ UWZ
 UWWI
 Ulg
 UQu
+UDP
 https
 horseee
 hours
@@ -10618,6 +10636,8 @@ HEE
 HbB
 HYi
 HAA
+Host
+HTTP
 ZWq
 ZVeG
 Zm
@@ -12875,6 +12895,7 @@ Ohh
 Oss
 OxM
 OdM
+OSI
 GVl
 Gc
 Gs

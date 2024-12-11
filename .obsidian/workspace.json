@@ -96,7 +96,8 @@
               "title": "标签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,6 +204,7 @@
   },
   "active": "db12b36e35ad9c48",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241211185732.png",
     "复习大纲/Images/Pasted image 20241211183126.png",
     "复习大纲/Images/Pasted image 20241211174247.png",
     "复习大纲/Images/Pasted image 20241211160353.png",
@@ -221,7 +223,6 @@
     "复习大纲/操作系统.md",
     "复习大纲/Images/Pasted image 20241209200416.png",
     "复习大纲/Images/Pasted image 20241209184949.png",
-    "复习大纲/Images/Pasted image 20241209184745.png",
     "算法基础/补充算法.md",
     "复习大纲/Images/control.png.crdownload",
     "复习大纲/算法题",

@@ -2492,6 +2492,7 @@ RegWrite
 RegisterRd
 RGB
 RARP
+RTT
 input
 image
 in
@@ -4676,6 +4677,7 @@ Mjkk
 MEX
 MHZ
 Mhz
+Mbps
 repetition
 retain
 rF
@@ -13158,6 +13160,7 @@ GGGinn
 GNV
 GFD
 GKsK
+GBN
 VHS
 Vo
 Vr

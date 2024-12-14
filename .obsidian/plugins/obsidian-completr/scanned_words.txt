@@ -559,6 +559,7 @@ CDM
 CSMA
 CTS
 Clear
+CIDR
 PIL
 Parameters
 Pruning
@@ -1140,6 +1141,8 @@ ICI
 Internet
 ICMP
 ISO
+IGMP
+IPv
 or
 org
 original
@@ -3890,6 +3893,7 @@ Network
 NAK
 NCP
 NAKn
+NAV
 DS
 Distillation
 DN
@@ -13184,6 +13188,7 @@ GNV
 GFD
 GKsK
 GBN
+Gbps
 VHS
 Vo
 Vr
@@ -13413,6 +13418,8 @@ VWWSA
 VfC
 VUix
 VUVZ
+VLAN
+VLSM
 qM
 qK
 qI

@@ -268,6 +268,8 @@ TCP
 Telnet
 TrapContext
 TDM
+TSAP
+TIME
 Convert
 Concerns
 CNNs
@@ -560,6 +562,8 @@ CSMA
 CTS
 Clear
 CIDR
+CDEF
+CLOSE
 PIL
 Parameters
 Pruning
@@ -830,6 +834,9 @@ PCI
 POP
 PAR
 PIFS
+Protocol
+PING
+PSH
 Image
 Instruction
 In
@@ -1143,6 +1150,9 @@ ICMP
 ISO
 IGMP
 IPv
+Information
+IBGP
+ISP
 or
 org
 original
@@ -2230,6 +2240,7 @@ aRn
 asm
 add
 addi
+ack
 Resize
 Results
 Real
@@ -2505,6 +2516,10 @@ RARP
 RTT
 RTS
 Request
+RIP
+Routing
+RST
+Reno
 input
 image
 in
@@ -3329,6 +3344,9 @@ shnWC
 spk
 slti
 switch
+seq
+ssthresh
+sshresh
 call
 creatStatement
 citekey
@@ -3650,6 +3668,7 @@ cll
 css
 cbd
 cpu
+cwnd
 Normalize
 New
 NY
@@ -3894,6 +3913,9 @@ NAK
 NCP
 NAKn
 NAV
+NAT
+NAPT
+NSAP
 DS
 Distillation
 DN
@@ -4428,6 +4450,9 @@ Loop
 LED
 LCP
 LAN
+LSDB
+LSU
+LSA
 Model
 Max
 Mask
@@ -4700,6 +4725,8 @@ Mhz
 Mbps
 MAC
 MACA
+MSS
+MSL
 repetition
 retain
 rF
@@ -4956,6 +4983,8 @@ rjZ
 rle
 rkH
 risc
+rwnd
+rcvwnd
 penalty
 publicly
 post
@@ -5235,6 +5264,7 @@ pPwtud
 plpHg
 plX
 pPk
+protocol
 executQuery
 effort
 el
@@ -5798,6 +5828,7 @@ AAAT
 ARP
 ARQ
 ALOHA
+ASpath
 zotero
 zt
 zu
@@ -6743,6 +6774,9 @@ ENJL
 EuY
 Evqx
 Eax
+EGP
+EBGP
+ESTABLISHED
 Security
 Systems
 Structured
@@ -7002,6 +7036,9 @@ SDU
 SMTP
 Send
 SIFS
+SDN
+SYN
+SACK
 World
 Why
 We
@@ -7254,6 +7291,7 @@ WQii
 WJKJFl
 Wot
 WJhv
+WAIT
 based
 bw
 bd
@@ -8813,6 +8851,7 @@ UQu
 UDP
 User
 Utopia
+URG
 https
 horseee
 hours
@@ -10413,6 +10452,7 @@ Bkv
 BuU
 BBBd
 Bytes
+BGP
 Hessian
 Hk
 Hg
@@ -10680,6 +10720,7 @@ HYi
 HAA
 Host
 HTTP
+Hello
 ZWq
 ZVeG
 Zm
@@ -12938,6 +12979,7 @@ Oss
 OxM
 OdM
 OSI
+OSPF
 GVl
 Gc
 Gs
@@ -13421,6 +13463,7 @@ VUix
 VUVZ
 VLAN
 VLSM
+VPN
 qM
 qK
 qI

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d63859b4a75ff2ca",
+        "id": "c6ea3dc6c82e1f48",
         "type": "tabs",
         "children": [
           {
-            "id": "db12b36e35ad9c48",
+            "id": "4c3ba2111c65ac71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -202,8 +202,13 @@
       "media-extended:Open media": false
     }
   },
-  "active": "db12b36e35ad9c48",
+  "active": "4c3ba2111c65ac71",
   "lastOpenFiles": [
+    "复习大纲/Images/Pasted image 20241214155320.png",
+    "复习大纲/计算机网络.md",
+    "复习大纲/Images/Pasted image 20241214153825.png",
+    "复习大纲/Images/Pasted image 20241214153550.png",
+    "复习大纲/Images/Pasted image 20241214153401.png",
     "复习大纲/Images/Pasted image 20241214151810.png",
     "复习大纲/Images/Pasted image 20241214151718.png",
     "复习大纲/Images/Pasted image 20241214140528.png",
@@ -211,12 +216,7 @@
     "复习大纲/Images/Pasted image 20241214135736.png",
     "复习大纲/Images/Pasted image 20241214135635.png",
     "复习大纲/Images/Pasted image 20241214132902.png",
-    "复习大纲/Images/Pasted image 20241214132722.png",
-    "复习大纲/Images/Pasted image 20241214132102.png",
-    "复习大纲/Images/Pasted image 20241214124406.png",
-    "复习大纲/Images/Pasted image 20241214123628.png",
     "复习大纲/计算机组成原理.md",
-    "复习大纲/计算机网络.md",
     "复习大纲/操作系统.md",
     "高数条件汇总/高数.md",
     "C++基础/快速入门.md",

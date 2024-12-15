@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/计算机网络.md",
+                "file": "复习大纲/操作系统.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计算机网络"
+              "title": "操作系统"
             }
           }
         ]
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -202,14 +201,14 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4c3ba2111c65ac71",
+  "active": "23e98c6575a95b64",
   "lastOpenFiles": [
+    "复习大纲/计算机网络.md",
     "复习大纲/操作系统.md",
     "复习大纲/Images/Pasted image 20241215124722.png",
     "复习大纲/Images/Pasted image 20241215122345.png",
     "复习大纲/计组和OS公共部分.md",
     "复习大纲/计算机组成原理.md",
-    "复习大纲/计算机网络.md",
     "复习大纲/Images/Pasted image 20241215121853.png",
     "复习大纲/Images/Pasted image 20241215121533.png",
     "复习大纲/Images/Pasted image 20241215115724.jpg",

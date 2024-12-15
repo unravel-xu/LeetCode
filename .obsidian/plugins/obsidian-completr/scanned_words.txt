@@ -3927,6 +3927,7 @@ NAPT
 NSAP
 Nagle
 NewReno
+NICE
 DS
 Distillation
 DN
@@ -4467,6 +4468,7 @@ LSDB
 LSU
 LSA
 Left
+LOAD
 Model
 Max
 Mask

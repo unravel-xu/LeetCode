@@ -271,6 +271,7 @@ TDM
 TSAP
 TIME
 TSINGHUA
+TLS
 Convert
 Concerns
 CNNs
@@ -1159,6 +1160,7 @@ Information
 IBGP
 ISP
 Increase
+IMAP
 or
 org
 original
@@ -4745,6 +4747,7 @@ MSS
 MSL
 Multiplicative
 Min
+MIME
 repetition
 retain
 rF
@@ -6545,6 +6548,7 @@ Qinn
 QUe
 Qcc
 QNv
+QUIC
 Era
 Exploring
 Efficient
@@ -7065,6 +7069,8 @@ SDN
 SYN
 SACK
 SWS
+SNMP
+STREAM
 World
 Why
 We
@@ -7837,6 +7843,7 @@ wEo
 wdckC
 wEY
 wmWt
+wifi
 library
 longer
 lE
@@ -8879,6 +8886,7 @@ UDP
 User
 Utopia
 URG
+URL
 https
 horseee
 hours
@@ -9981,6 +9989,7 @@ fMllm
 fIp
 fOO
 fKX
+frame
 You
 YX
 YO
@@ -10751,6 +10760,9 @@ HAA
 Host
 HTTP
 Hello
+HPack
+HTML
+HTTPS
 ZWq
 ZVeG
 Zm
@@ -13759,6 +13771,7 @@ qus
 qWB
 qUB
 qqqf
+quic
 Öv
 ÖL
 ÖA

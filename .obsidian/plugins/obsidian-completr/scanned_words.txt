@@ -270,6 +270,7 @@ TrapContext
 TDM
 TSAP
 TIME
+TSINGHUA
 Convert
 Concerns
 CNNs
@@ -564,6 +565,9 @@ Clear
 CIDR
 CDEF
 CLOSE
+Clark
+CUBIC
+Cubic
 PIL
 Parameters
 Pruning
@@ -837,6 +841,7 @@ PIFS
 Protocol
 PING
 PSH
+Product
 Image
 Instruction
 In
@@ -1153,6 +1158,7 @@ IPv
 Information
 IBGP
 ISP
+Increase
 or
 org
 original
@@ -1934,6 +1940,7 @@ trn
 trap
 tutorial
 tab
+tsinghua
 an
 attachments
 arxiv
@@ -2520,6 +2527,7 @@ RIP
 Routing
 RST
 Reno
+Right
 input
 image
 in
@@ -2790,6 +2798,7 @@ iEW
 ilh
 ihu
 ijn
+info
 given
 github
 gt
@@ -3916,6 +3925,8 @@ NAV
 NAT
 NAPT
 NSAP
+Nagle
+NewReno
 DS
 Distillation
 DN
@@ -4185,6 +4196,8 @@ Dyxx
 DNS
 DIFS
 DHCP
+Decrease
+Delay
 LLM
 Low
 Less
@@ -4453,6 +4466,7 @@ LAN
 LSDB
 LSU
 LSA
+Left
 Model
 Max
 Mask
@@ -4727,6 +4741,8 @@ MAC
 MACA
 MSS
 MSL
+Multiplicative
+Min
 repetition
 retain
 rF
@@ -5561,6 +5577,7 @@ eCBC
 eZVn
 eSl
 ecall
+edu
 Answer
 Automatic
 Af
@@ -5829,6 +5846,8 @@ ARP
 ARQ
 ALOHA
 ASpath
+AIMD
+Additive
 zotero
 zt
 zu
@@ -6777,6 +6796,8 @@ Eax
 EGP
 EBGP
 ESTABLISHED
+Edge
+EDU
 Security
 Systems
 Structured
@@ -7039,6 +7060,7 @@ SIFS
 SDN
 SYN
 SACK
+SWS
 World
 Why
 We
@@ -7292,6 +7314,7 @@ WJKJFl
 Wot
 WJhv
 WAIT
+Wmax
 based
 bw
 bd
@@ -10453,6 +10476,9 @@ BuU
 BBBd
 Bytes
 BGP
+BDP
+BBR
+Bandwidth
 Hessian
 Hk
 Hg

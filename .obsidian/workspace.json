@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4c3ba2111c65ac71",
+            "id": "d0e0da7c3f8a0f05",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/计组和OS公共部分.md",
+                "file": "作文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "计组和OS公共部分"
+              "title": "作文"
             }
           }
         ]
@@ -96,12 +96,12 @@
               "title": "标签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -201,15 +201,16 @@
       "media-extended:Open media": false
     }
   },
-  "active": "4c3ba2111c65ac71",
+  "active": "d0e0da7c3f8a0f05",
   "lastOpenFiles": [
+    "复习大纲/计组和OS公共部分.md",
+    "作文.md",
     "复习大纲/Images/Pasted image 20241215203217.png",
     "复习大纲/计算机组成原理.md",
     "复习大纲/操作系统.md",
     "复习大纲/计算机网络.md",
     "复习大纲/Images/Pasted image 20241215124722.png",
     "复习大纲/Images/Pasted image 20241215122345.png",
-    "复习大纲/计组和OS公共部分.md",
     "复习大纲/Images/Pasted image 20241215121853.png",
     "复习大纲/Images/Pasted image 20241215121533.png",
     "复习大纲/Images/Pasted image 20241215115724.jpg",
@@ -217,7 +218,6 @@
     "复习大纲/Images/Pasted image 20241215114031.png",
     "复习大纲/Images/Pasted image 20241215114022.png",
     "复习大纲/Images/Pasted image 20241215113329.png",
-    "复习大纲/Images/Pasted image 20241215113029.png",
     "C++基础/相关资源.md",
     "leetcode/一些小技巧.md",
     "算法基础/912 DSA复习笔记.md",

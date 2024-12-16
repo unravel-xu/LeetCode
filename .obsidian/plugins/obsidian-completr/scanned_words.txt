@@ -1161,6 +1161,7 @@ IBGP
 ISP
 Increase
 IMAP
+Invalid
 or
 org
 original
@@ -4748,6 +4749,8 @@ MSL
 Multiplicative
 Min
 MIME
+MESI
+Modified
 repetition
 retain
 rF
@@ -6806,6 +6809,7 @@ ESTABLISHED
 Edge
 EDU
 Epoch
+Exclusive
 Security
 Systems
 Structured
@@ -7071,6 +7075,7 @@ SACK
 SWS
 SNMP
 STREAM
+Shared
 World
 Why
 We

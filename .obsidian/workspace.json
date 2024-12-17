@@ -100,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "b4a8e5bc34f530e3",
@@ -201,27 +200,27 @@
       "media-extended:Open media": false
     }
   },
-  "active": "1613ddbee5a5a44d",
+  "active": "42729d11c3482436",
   "lastOpenFiles": [
     "复习大纲/计组和OS公共部分.md",
+    "复习大纲/Images/Pasted image 20241217181029.png",
+    "复习大纲/操作系统.md",
+    "复习大纲/计算机网络.md",
     "复习大纲/计算机组成原理.md",
     "复习大纲/DSA.md",
     "复习大纲/Images/Pasted image 20241217162245.png",
     "复习大纲/Images/Pasted image 20241217162130.png",
     "复习大纲/Images/Pasted image 20241217161428.png",
-    "复习大纲/计算机网络.md",
     "算法基础/912 DSA复习笔记.md",
     "算法基础/补充算法.md",
     "复习大纲/Images/Pasted image 20241217153241.png",
     "复习大纲/算法.md",
     "作文.md",
     "复习大纲/Images/Pasted image 20241215203217.png",
-    "复习大纲/操作系统.md",
     "复习大纲/Images/Pasted image 20241215124722.png",
     "复习大纲/Images/Pasted image 20241215122345.png",
     "复习大纲/Images/Pasted image 20241215121853.png",
     "复习大纲/Images/Pasted image 20241215121533.png",
-    "复习大纲/Images/Pasted image 20241215115724.jpg",
     "C++基础/相关资源.md",
     "leetcode/一些小技巧.md",
     "高数条件汇总/高数.md",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "复习大纲/操作系统.md",
+                "file": "复习大纲/计组和OS公共部分.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "操作系统"
+              "title": "计组和OS公共部分"
             }
           },
           {
@@ -35,7 +35,8 @@
               "title": "912 DSA复习笔记"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,8 +219,8 @@
   "active": "23e98c6575a95b64",
   "lastOpenFiles": [
     "复习大纲/计组和OS公共部分.md",
-    "算法基础/912 DSA复习笔记.md",
     "复习大纲/操作系统.md",
+    "算法基础/912 DSA复习笔记.md",
     "复习大纲/计算机组成原理.md",
     "复习大纲/Images/67f59d175bcee0a513cef989c8be7458.webp",
     "复习大纲/Images/Pasted image 20241219144635.png",

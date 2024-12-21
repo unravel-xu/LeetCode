@@ -406,7 +406,7 @@ Queap = Queue + Heap = enqueue + dequeue + getMax
   ![|300](Images/Pasted%20image%2020241202084644.png)
 - 先序 + 后序 -> 层序
 - 层序 + 后序 -> 先序
-- 先序 + 层序 $\nrightarrow$ 层序
+- 先序 + 层序 $\nrightarrow$ 后序
   ![|240](Images/Pasted%20image%2020241202085035.png)
 - 先序 + 后序 + 真二叉树
 - 增强序列：假想认为树中每个 NULL 也是“真实节点”，并在遍历时一并输出
